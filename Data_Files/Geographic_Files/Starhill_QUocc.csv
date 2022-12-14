@@ -25,7 +25,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2002-048,-89.80095436,39.9338043,Quercus × bimundorum,Quercus,×bimundorum,,alba × robur F2,,B4,OB,2,2002
 1981-033,-89.80215649,39.93534775,Quercus × bushii,Quercus,×bushii,,marilandica × velutina F2,,A2,AA,1,1981
 2013-018,-89.80187251,39.93239908,Quercus × bushii,Quercus,×bushii,,marilandica × velutina F2,,A7,OOOOA,2,2013
-2021-009,39.93255,-89.8017,Quercus × bushii,Quercus,×bushii,,marilandica × velutina,,,,NA,2021
+2021-009,-89.8017,39.93255,Quercus × bushii,Quercus,×bushii,,marilandica × velutina,,,,NA,2021
 2010-071,-89.80141235,39.93278297,Quercus × calvescens,Quercus,×calvescens,,,,B6,OOOB,1,2010
 2004-079,-89.8013965,39.93407177,Quercus × carrisoana,Quercus,×carrisoana,,canariensis × robur,,B5,OOB,1,2004
 2007-026,-89.80119911,39.93339728,Quercus × carrisoana,Quercus,×carrisoana,,canariensis × robur,,B5,OOB,1,2007
@@ -39,7 +39,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 1999-050,-89.79839511,39.93569534,Quercus × deamii,Quercus,×deamii,,macrocarpa × muhlenbergii F2,,F1,FFF,3,1999
 2001-018,-89.79834231,39.93566324,Quercus × deamii,Quercus,×deamii,,macrocarpa × muhlenbergii F2,,F1,FFF,4,2001
 2018-011,-89.80187075,39.93196196,Quercus × egglestonii,Quercus,×egglestonii,,F2,,A7,OOOOA,1,2018
-2020-012,39.93190463,-89.80174775,Quercus × exacta,Quercus,×exacta,,imbricaria × palustris F2,,,,2,
+2020-012,-89.80174775,39.93190463,Quercus × exacta,Quercus,×exacta,,imbricaria × palustris F2,,,,2,
 2000-049,-89.8019855,39.93491457,Quercus × faxonii,Quercus,×faxonii,,alba × prinoides,,A2,AA,1,2000
 2010-074,-89.80215825,39.93258205,Quercus × fernowii,Quercus,×fernowii,,alba × stellata F2,,A6,OOOA,1,2010
 2010-075,-89.80178509,39.93275044,Quercus × fernowii,Quercus,×fernowii,,alba × stellata F2,,A6,OOOA,1,2010
@@ -54,7 +54,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2015-014,-89.80130062,39.93220864,Quercus × haynaldiana,Quercus,×haynaldiana,Crisnetto',robur × frainetto,,B7,OOOOB,1,2015
 2010-077,-89.80123574,39.93280526,Quercus × haynaldiana,Quercus,×haynaldiana,,frainetto (f) × robur F1,,B6,OOOB,3,2010
 2004-066,-89.80108872,39.93335864,Quercus × haynaldiana,Quercus,×haynaldiana,,frainetto (f) × robur F1,,B5,OOB,2,2004
-2020-027,39.93186233,-89.80181125,Quercus × hessiana,Quercus,×hessiana,,alba × lyrata,,,,1,
+2020-027,-89.80181125,39.93186233,Quercus × hessiana,Quercus,×hessiana,,alba × lyrata,,,,1,
 2005-089,-89.80232086,39.93358268,Quercus × heterophylla,Quercus,×heterophylla,,phellos × rubra F2,,A5,OOA,1,2005
 2004-067,-89.80220703,39.93352158,Quercus × heterophylla,Quercus,×heterophylla,,phellos × rubra F2,,A5,OOA,1,2004
 2014-059,-89.80187947,39.93232741,Quercus × heterophylla,Quercus,×heterophylla,,phellos × rubra F2,,A7,OOOOA,2,2014
@@ -65,7 +65,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2009-150,-89.8021,39.93286667,Quercus × humidicola,Quercus,×humidicola,,lyrata (f) × bicolor F2,,A6,OOOA,2,2009
 2004-039,-89.80107456,39.93344933,Quercus × humidicola,Quercus,×humidicola,,lyrata ×  bicolor F2,,B5,OOB,3,2004
 2001-020,-89.79845974,39.93587354,Quercus × humidicola,Quercus,×humidicola,,lyrata (f) × bicolor F2,,F1,FFF,2,2001
-2021-010,39.93236,-89.8019,Quercus × humidicola,Quercus,×humidicola,,bicolor × lyrata,,,,NA,2021
+2021-010,-89.8019,39.93236,Quercus × humidicola,Quercus,×humidicola,,bicolor × lyrata,,,,NA,2021
 2010-078,-89.80207192,39.93261147,Quercus × introgressa,Quercus,×introgressa,,(muhlenbergii × prinoides) × bicolor F2,,A6,OOOA,1,2010
 2009-151,-89.8019223,39.93297449,Quercus × introgressa,Quercus,×introgressa,,(muhlenbergii × prinoides) × bicolor F2,,A6,OOOA,1,2009
 2014-060,-89.80174134,39.93239606,Quercus × introgressa,Quercus,×introgressa,,(muhlenbergii × prinoides) × bicolor F2,,A7,OOOOA,2,2014
@@ -76,7 +76,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2016-015,-89.80179079,39.93213538,Quercus × leana,Quercus,×leana,,imbricaria × palustris,,A7,OOOOA,1,2016
 2009-152,-89.8017,39.9329,Quercus × libanerris,Quercus,×libanerris,,libani × cerris F2,,A6,OOOA,1,2009
 2008-071,-89.80166667,39.93295,Quercus × libanerris,Quercus,×libanerris,,libani × cerris F2 of 'Rotterdam',,B6,OOOB,1,2008
-2020-028,39.93187193,-89.80128895,Quercus × libanerris × cerris,Quercus,×libanerris,,libani × cerris,,,,2,
+2020-028,-89.80128895,39.93187193,Quercus × libanerris × cerris,Quercus,×libanerris,,libani × cerris,,,,2,
 2005-092,-89.80213554,39.93355678,Quercus × mazei,Quercus,×mazei,,gambelii × macrocarpa F2,,A5,OOA,3,2005
 2005-091,-89.80211576,39.93360305,Quercus × mazei,Quercus,×mazei,,gambelii × macrocarpa F2,,A5,OOA,2,2005
 2011-044,-89.80194099,39.93250494,Quercus × mazei,Quercus,×mazei,,gambelii × macrocarpa F2,,A6,OOOA,4,2011
@@ -92,7 +92,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2011-042,-89.8014281,39.93264374,Quercus × rosacea,Quercus,×rosacea,,F2,,B6,OOOB,4,2011
 2013-101,-89.80131503,39.93232699,Quercus × rosacea,Quercus,×rosacea,,F2,,B7,OOOOB,4,2013
 2000-052,-89.79846502,39.93582878,Quercus × rosacea,Quercus,×rosacea,,robur × petraea,,F1,FFF,2,2000
-2020-013,39.93203698,-89.80155217,Quercus × rosacea,Quercus,×rosacea,Controlled Burn',,,,,1,
+2020-013,-89.80155217,39.93203698,Quercus × rosacea,Quercus,×rosacea,Controlled Burn',,,,,1,
 2003-017,-89.80113231,39.93417436,Quercus × runcinata,Quercus,×runcinata,,imbricaria × rubra F2,,B4,OB,2,2003
 2001-021,-89.80103818,39.93383582,Quercus × runcinata,Quercus,×runcinata,,imbricaria × rubra F2,,B4,OB,2,2001
 2001-022,-89.80105285,39.93384177,Quercus × sargentii,Quercus,×sargentii,,robur × montana,,B4,OB,2,2001
@@ -107,7 +107,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2002-049,-89.79837768,39.93578218,Quercus × schuettei,Quercus,×schuettei,,bicolor × macrocarpa F2,,F1,FFF,2,2002
 2003-018,-89.79837458,39.93565268,Quercus × schuettei,Quercus,×schuettei,,bicolor × macrocarpa F2,,F1,FFF,5,2003
 2004-071,-89.79828279,39.93575745,Quercus × schuettei,Quercus,×schuettei,,bicolor × macrocarpa F2,,F1,FFF,2,2004
-2020-014,39.93195253,-89.80170112,Quercus × schuettei,Quercus,×schuettei,,Kimberly' F2 'Jillian',,,,1,
+2020-014,-89.80170112,39.93195253,Quercus × schuettei,Quercus,×schuettei,,Kimberly' F2 'Jillian',,,,1,
 1994-018,-89.80203847,39.93509478,Quercus × sternbergii,Quercus,×sternbergii,,buckleyi × shumardii ,,A2,AA,2,1994
 2014-062,-89.80182909,39.9323741,Quercus × sternbergii,Quercus,×sternbergii,,buckleyi × shumardii ,,A7,OOOOA,4,2014
 2000-053,-89.80085696,39.9340882,Quercus × sternbergii,Quercus,×sternbergii,,buckleyi × shumardii ,,C4,OC,2,2000
@@ -118,7 +118,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2014-063,-89.80236403,39.93288464,Quercus × substellata,Quercus,×substellata,,bicolor × stellata,,A6,OOOA,3,2014
 2006-078,-89.80218256,39.93322117,Quercus × substellata,Quercus,×substellata,,bicolor × stellata,,A5,OOA,2,2006
 2012-096,-89.8021689,39.93241098,Quercus × tottenii,Quercus,×tottenii,,lyrata × michauxii F2,,A7,OOOOA,1,2012
-2020-015,39.93184448,-89.80186633,Quercus × tottenii,Quercus,×tottenii,,lyrata × michauxii F2,,,,2,
+2020-015,-89.80186633,39.93184448,Quercus × tottenii,Quercus,×tottenii,,lyrata × michauxii F2,,,,2,
 1994-019,-89.80144,39.935704,Quercus × turneri,Quercus,×turneri, 'Pseudoturneri',,,Oak Street,Oak Street,1,1994
 2008-073,-89.80208333,39.93298333,Quercus × undulata ,Quercus,×undulata,,,,A6,OOOA,3,2008
 1999-055,-89.80144,39.935704,Quercus × undulata ,Quercus,×undulata,,,,Oak Street,Oak Street,1,1999
@@ -228,7 +228,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2015-016,-89.80129885,39.93261307,Quercus dentata,Quercus,dentata,,,,B6,OOOB,4,2015
 1997-035,-89.80107615,39.93412298,Quercus dentata,Quercus,dentata,,,,B4,OB,3,1997
 1995-017,-89.80077473,39.93441794,Quercus dentata,Quercus,dentata, 'Pinnatifida',,,C3,C,1,1995
-2020-017,39.93201108,-89.80154607,Quercus dentata,Quercus,dentata,,,,,,5,
+2020-017,-89.80154607,39.93201108,Quercus dentata,Quercus,dentata,,,,,,5,
 1994-025,-89.80239722,39.93525093,Quercus ellipsoidalis,Quercus,ellipsoidalis,,,,A2,AA,1,1994
 2009-161,-89.80225,39.93283333,Quercus ellipsoidalis,Quercus,ellipsoidalis,,,,A6,OOOA,5,2009
 2010-092,-89.8017876,39.93267358,Quercus ellipsoidalis,Quercus,ellipsoidalis,,,,A6,OOOA,7,2010
@@ -248,7 +248,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 1982-031,-89.80237618,39.93516385,Quercus frainetto,Quercus,frainetto,,,,A2,AA,1,1982
 2005-107,-89.8013333,39.93367916,Quercus frainetto,Quercus,frainetto,,,,B4,OB,3,2005
 2018-018,-89.80128796,39.93207109,Quercus frainetto,Quercus,frainetto,,,,B7,OOOOB,4,2018
-2020-018,39.93192077,-89.80143738,Quercus frainetto,Quercus,frainetto,,,,,,4,
+2020-018,-89.80143738,39.93192077,Quercus frainetto,Quercus,frainetto,,,,,,4,
 2005-108,-89.80144,39.935704,Quercus fusiformis,Quercus,fusiformis,,,,Oak Street,Oak Street,2,2005
 2002-027,-89.80125,39.93538333,Quercus fusiformis,Quercus,fusiformis,,,,Oak Street,Oak Street,1,2002
 2008-044,-89.80198333,39.93303333,Quercus gambelii,Quercus,gambelii,,,,A6,OOOA,11,2008
@@ -264,8 +264,8 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2018-056,-89.80144,39.935704,Quercus glauca,Quercus,glauca,,,,Oak Street,Oak Street,3,2018
 2016-099,89.801436,39.935728,Quercus glauca,Quercus,glauca,annelata,,,Oak Street,Oak Street,1,2016
 1996-021,-89.80144,39.935704,Quercus graciliformis,Quercus,graciliformis,,,,Oak Street,Oak Street,1,1996
-2016-100,89.801436,39.935728,Quercus graciliformis,Quercus,graciliformis,,,,Oak Street,Oak Street,2,2016
-2016-101,89.801436,39.935728,Quercus graciliformis,Quercus,graciliformis,,,,Oak Street,Oak Street,3,2016
+2016-100,-89.801436,39.935728,Quercus graciliformis,Quercus,graciliformis,,,,Oak Street,Oak Street,2,2016
+2016-101,-89.801436,39.935728,Quercus graciliformis,Quercus,graciliformis,,,,Oak Street,Oak Street,3,2016
 2000-026,-89.80144,39.935704,Quercus gravesii,Quercus,gravesii,,,,Oak Street,Oak Street,3,2000
 2006-052,-89.80144,39.935704,Quercus gravesii,Quercus,gravesii,,,,Oak Street,Oak Street,2,2006
 2005-057,-89.80069536,39.93519218,Quercus gravesii,Quercus,gravesii,,,,C2,CC,1,2005
@@ -329,7 +329,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2001-064,-89.80007468,39.93604311,Quercus prinoides × muehlenbergii,Quercus,,,georgiana (f) × nigra F1,,D1,DDD,1,2001
 2000-057,-89.79855269,39.93565176,Quercus georgiana × nigra,Quercus,,,macrocarpa × virginiana,,F1,FFF,1,2000
 2001-023,-89.79838111,39.93587731,Quercus schuettei × macrocarpa,Quercus,,,schuettei × macrocarpa,,F1,FFF,1,2001
-2021-014,39.93226,-89.802,Quercus nuttallii × nigra,Quercus,,,nuttallii × nigra,F2,,,NA,2021
+2021-014,-89.802,39.93226,Quercus nuttallii × nigra,Quercus,,,nuttallii × nigra,F2,,,NA,2021
 1994-031,-89.80144,39.935704,Quercus ilex,Quercus,ilex,,,,Oak Street,Oak Street,1,1994
 2015-086,-89.80144,39.935704,Quercus ilex,Quercus,ilex,,,,Oak Street,Oak Street,6,2015
 2011-007,-89.80125418,39.93401477,Quercus incana,Quercus,incana,,,,B4,OB,3,2011
@@ -470,8 +470,8 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 1998-033,-89.79809244,39.93555897,Quercus macrocarpa,Quercus,macrocarpa,,,,F1,FFF,7,1998
 1997-041,-89.79808859,39.93552879,Quercus macrocarpa,Quercus,macrocarpa,,,,F1,FFF,44,1997
 2003-035,-89.79804617,39.93571353,Quercus macrocarpa,Quercus,macrocarpa,,,,F1,FFF,61,2003
-2021-011,39.93304,-89.8005,Quercus macrocarpa,Quercus,macrocarpa,,,,C6,OOC,111,2021
-2021-012,39.93306,-89.8004,Quercus macrocarpa,Quercus,macrocarpa,,,,C7,OOC,112,2021
+2021-011,-89.8005,39.93304,Quercus macrocarpa,Quercus,macrocarpa,,,,C6,OOC,111,2021
+2021-012,-89.8004,39.93306,Quercus macrocarpa,Quercus,macrocarpa,,,,C7,OOC,112,2021
 2010-098,-89.80045823,39.93462807,Quercus macrolepis,Quercus,macrolepis,,,,C3,C,2,2010
 2011-018,-89.80235992,39.93322972,Quercus margaretta,Quercus,margaretta,,,,A5,OOA,4,2011
 2008-055,-89.80203333,39.9332,Quercus margaretta,Quercus,margaretta,,,,A5,OOA,2,2008
@@ -486,7 +486,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2005-066,-89.80217854,39.93328404,Quercus michauxii,Quercus,michauxii,,,,A5,OOA,3,2005
 2011-038,-89.80211609,39.93251785,Quercus michauxii,Quercus,michauxii,,,,A6,OOOA,5,2011
 2014-076,-89.80162273,39.93241517,Quercus michauxii,Quercus,michauxii,,,,B7,OOOOB,2,2014
-2020-020,39.93198687,-89.80178462,Quercus michauxii,Quercus,michauxii,,,,,,6,
+2020-020,-89.80178462,39.93198687,Quercus michauxii,Quercus,michauxii,,,,,,6,
 2003-041,-89.80144,39.935704,Quercus minima,Quercus,minima,,,,Oak Street,Oak Street,1,2003
 2013-099,-89.80144,39.935704,Quercus minima,Quercus,minima,,,,Oak Street,Oak Street,2,2013
 2002-042,-89.8011567,39.93537323,Quercus mohriana,Quercus,mohriana,,,,B2,BB,1,2002
@@ -508,8 +508,8 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2001-048,-89.80010661,39.93611561,Quercus muehlenbergii,Quercus,muehlenbergii,,,,D1,DDD,5,2001
 2001-047,-89.79976715,39.9352739,Quercus muehlenbergii,Quercus,muehlenbergii,,,,D2,DD,4,2001
 2004-077,-89.80241901,39.93362887,Quercus muehlenbergii × stellata,Quercus,,,muehlenbergii × stellata F2,,A5,OOA,1,2004
-2016-106,89.801436,39.935728,Quercus multinervis,Quercus,multinervis,,,,Oak Street,Oak Street,1,2016
-2016-107,89.801436,39.935728,Quercus multinervis,Quercus,multinervis,,,,Oak Street,Oak Street,1,2016
+2016-106,-89.801436,39.935728,Quercus multinervis,Quercus,multinervis,,,,Oak Street,Oak Street,1,2016
+2016-107,-89.801436,39.935728,Quercus multinervis,Quercus,multinervis,,,,Oak Street,Oak Street,1,2016
 1995-025,-89.80144,39.935704,Quercus myrtifolia,Quercus,myrtifolia,,,,Oak Street,Oak Street,1,1995
 1995-047,-89.80144,39.935704,Quercus myrtifolia,Quercus,myrtifolia,,,,Oak Street,Oak Street,1,1995
 2006-058,-89.80241834,39.93345469,Quercus nuttallii,Quercus,nuttallii, 'New Madrid',,,A5,OOA,1,2006
@@ -523,10 +523,10 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2006-060,-89.80144,39.935704,Quercus oleoides,Quercus,oleoides,,,,Oak Street,Oak Street,1,2006
 2015-027,-89.80224358,39.93228206,Quercus pagoda,Quercus,pagoda,,,,A7,OOOOA,3,2015
 1984-011,-89.80220318,39.93524599,Quercus pagoda,Quercus,pagoda,,,,A2,AA,1,1984
-2020-023,39.93182843,-89.80182067,Quercus pagoda,Quercus,pagoda,,,,,,3,
+2020-023,-89.80182067,39.93183083,Quercus pagoda,Quercus,pagoda,,,,,,3,
 1982-034,-89.80237685,39.93517835,Quercus palustris,Quercus,palustris,,,,A2,AA,3,1982
 1978-055,-89.80207887,39.93529486,Quercus palustris,Quercus,palustris,,,,A2,AA,4,1979
-2020-024,39.93183083,-89.80200887,Quercus palustris,Quercus,palustris,,,,,,3,
+2020-024,-89.80200887,39.93182843,Quercus palustris,Quercus,palustris,,,,,,3,
 2005-069,-89.80133842,39.93358771,Quercus pedunculiflora,Quercus,pedunculiflora,,,,B5,OOB,2,2005
 2003-042,-89.80133062,39.93320357,Quercus pedunculiflora,Quercus,pedunculiflora,,,,B5,OOB,2,2003
 2011-074,-89.80123968,39.93264031,Quercus pedunculiflora,Quercus,pedunculiflora,,,,B6,OOOB,4,2011
@@ -560,8 +560,8 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2009-184,-89.80041649,39.93459103,Quercus prinoides,Quercus,prinoides × ?,,,,C3,C,1,2009
 2009-182,-89.80037827,39.93459606,Quercus prinoides,Quercus,prinoides,,,,C3,C,5,2009
 2006-065,-89.79957805,39.93608418,Quercus prinoides,Quercus,prinoides,,,,D1,DDD,3,2006
-2021-006,39.93459,-89.8004,Quercus prinoides,Quercus,prinoides,,,,,,NA,2021
-2021-007,39.93462,-89.8005,Quercus prinoides,Quercus,prinoides,,,,,,NA,2021
+2021-006,-89.8004,39.93459,Quercus prinoides,Quercus,prinoides,,,,,,NA,2021
+2021-007,-89.8005,39.93462,Quercus prinoides,Quercus,prinoides,,,,,,NA,2021
 2008-059,-89.80171778,39.93321665,Quercus pubescens,Quercus,pubescens, 'Migazziana',,,B5,OOB,1,2008
 2005-078,-89.80166129,39.93337431,Quercus pubescens,Quercus,pubescens,,,,B5,OOB,4,2005
 2005-077,-89.80164092,39.93338462,Quercus pubescens,Quercus,pubescens,,,,B5,OOB,5,2005
@@ -582,7 +582,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2001-054,-89.80120732,39.93400572,Quercus pyrenaica,Quercus,pyrenaica,,,,B4,OB,1,2001
 2001-053,-89.80079158,39.93462858,Quercus pyrenaica,Quercus,pyrenaica,,,,C3,C,1,2001
 1995-027,-89.80144,39.935704,Quercus resinosa,Quercus,resinosa,,,,Oak Street,Oak Street,1,1995
-2016-108,89.801436,39.935728,Quercus rhysophylla,Quercus,rhysophylla,,,,Oak Street,Oak Street,2,2016
+2016-108,-89.801436,39.935728,Quercus rhysophylla,Quercus,rhysophylla,,,,Oak Street,Oak Street,2,2016
 2008-062,-89.80233333,39.9329,Quercus robur,Quercus,robur, 'Albomarginata',,,A6,OOOA,1,2008
 2008-063,-89.8023,39.93288333,Quercus robur,Quercus,robur, 'Henzei',,,A6,OOOA,1,2008
 1995-029,-89.8021606,39.93488724,Quercus robur,Quercus,robur, 'Filicifolia',,,A2,AA,1,1995
@@ -629,7 +629,7 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2008-066,-89.80156667,39.93291667,Quercus serrata,Quercus,serrata,,,,B6,OOOB,5,2008
 2005-082,-89.80142,39.93367,Quercus serrata,Quercus,serrata,,,,B5,OOB,3,2005
 1997-044,-89.80107003,39.93406749,Quercus serrata,Quercus,serrata,,,,B4,OB,2,1997
-2016-109,89.801436,39.935728,Quercus serrata,Quercus,serrata,,,,Oak Street,Oak Street,6,2016
+2016-109,-89.801436,39.935728,Quercus serrata,Quercus,serrata,,,,Oak Street,Oak Street,6,2016
 2006-070,-89.80233528,39.93314607,Quercus shumardii,Quercus,shumardii,,,,A5,OOA,6,2006
 2017-029,-89.80231097,39.93228089,Quercus shumardii,Quercus,shumardii,,,,A7,OOOOA,11,2017
 2005-083,-89.8022844,39.93346014,Quercus shumardii,Quercus,shumardii,,,,A5,OOA,5,2005
@@ -681,6 +681,6 @@ Starhill_Accession_number,Longitude,Latitude,Species_Name,Genus,Species,Subspeci
 2012-046,-89.80131319,39.93249337,Quercus virgiliana,Quercus,virgiliana,,,,B6,OOOB,3,2012
 2004-062,-89.80144,39.935704,Quercus virginiana,Quercus,virginiana,,,,Oak Street,Oak Street,3,2004
 2015-037,-89.80133255,39.93214904,Quercus vulcanica,Quercus,vulcanica,Kasnak',,,B7,OOOOB,1,2015
-2020-026,39.93195667,-89.80155353,Quercus wutaishanica,Quercus,wutaishanica,,,,,,4,
+2020-026,-89.80155353,39.93195667,Quercus wutaishanica,Quercus,wutaishanica,,,,,,4,
 2019-069,-89.80144,39.9357,Quercus yiwuensis,Quercus,yiwuensis,,,,Oak Street,Oak Street,1,2019
 1999-056,-89.80144,39.935704,Quercus yunnanensis,Quercus,yunnanensis,,,,Oak Street,Oak Street,2,1999
