@@ -187,7 +187,7 @@ LODG,-121.75732,38.531715,1933.9041,40,Quercus lobata,Inspected,1
 LODG,-121.7575116,38.53132735,1933.9041,45,Quercus lobata,Inspected,1
 LODG,-121.7571056,38.53153945,1933.9041,46,Quercus lobata,Inspected,1
 LODG,-121.7596298,38.53037317,1964.1285,1,Quercus ithaburensis,Inspected,1
-LODG,-121.7597124,38.53022506,1964.1303,1,Quercus canariensis × Quercus robur,Inspected,1
+LODG,-121.7597124,38.53022506,1964.1303,1,Quercus canariensis_Quercus robur,Inspected,1
 LODG,-121.758871,38.531198,2003.9047,1,Quercus lobata,Inspected,1
 LODG,-121.7597238,38.53018554,2005.8031,1,Quercus robur,Inspected,1
 LODG,-121.7588777,38.53102204,2012.0884,1,Quercus virginiana,Inspected,1
@@ -338,8 +338,8 @@ SHIEL,-121.763381,38.52837859,1964.1184,7,Quercus macrocarpa,Inspected,1
 SHIEL,-121.7626103,38.52846127,1964.1216,1,Quercus petraea,Inspected,1
 SHIEL,-121.7629008,38.5281682,1964.127,1,Quercus lobata,Inspected,1
 SHIEL,-121.7639534,38.52854774,1964.1274,1,Quercus douglasii,Inspected,1
-SHIEL,-121.7650972,38.52948759,1964.1279,1,Quercus kelloggii × wislizeni,Inspected,1
-SHIEL,-121.765187,38.529464,1964.1279,2,Quercus kelloggii × wislizeni,Inspected,1
+SHIEL,-121.7650972,38.52948759,1964.1279,1,Quercus kelloggii_wislizeni,Inspected,1
+SHIEL,-121.765187,38.529464,1964.1279,2,Quercus kelloggii_wislizeni,Inspected,1
 SHIEL,-121.7643879,38.52948633,1964.128,1,Quercus suber,Inspected,1
 SHIEL,-121.765139,38.529383,1964.1284,1,Quercus infectoria,Inspected,1
 SHIEL,-121.765111,38.529368,1964.1284,2,Quercus infectoria,Inspected,1
@@ -350,7 +350,7 @@ SHIEL,-121.763519,38.529245,1964.1285,4,Quercus ithaburensis,Inspected,1
 SHIEL,-121.7639508,38.52944472,1964.1286,1,Quercus coccifera,Inspected,1
 SHIEL,-121.7640609,38.52945732,1964.1286,2,Quercus coccifera,Inspected,1
 SHIEL,-121.7639809,38.52945273,1964.1286,4,Quercus coccifera,Inspected,1
-SHIEL,-121.76312,38.528403,1964.1303,2,Quercus canariensis × robur,Inspected,1
+SHIEL,-121.76312,38.528403,1964.1303,2,Quercus canariensis_robur,Inspected,1
 SHIEL,-121.76451,38.529586,1964.1304,1,Quercus cerris,Inspected,1
 SHIEL,-121.764508,38.529487,1964.1304,2,Quercus cerris,Inspected,1
 SHIEL,-121.764676,38.529322,1964.1309,1,Quercus trojana,Inspected,1
@@ -359,11 +359,11 @@ SHIEL,-121.7637025,38.52932661,1964.131,1,Quercus rotundifolia,Inspected,1
 SHIEL,-121.7637364,38.52926679,1964.131,2,Quercus rotundifolia,Inspected,1
 SHIEL,-121.7627843,38.52824958,1964.1311,1,Quercus robur,Inspected,1
 SHIEL,-121.7627282,38.52829889,1964.1311,2,Quercus robur,Inspected,1
-SHIEL,-121.763098,38.52848,1964.1313,1,Quercus castaneifolia × cerris,Inspected,1
-SHIEL,-121.7629563,38.52933192,1964.1313,2,Quercus castaneifolia × cerris,Inspected,1
-SHIEL,-121.762991,38.529304,1964.1313,3,Quercus castaneifolia × cerris,Inspected,1
-SHIEL,-121.763074,38.529335,1964.1313,4,Quercus castaneifolia × cerris,Inspected,1
-SHIEL,-121.7630652,38.52937718,1964.1313,5,Quercus castaneifolia × cerris,Inspected,1
+SHIEL,-121.763098,38.52848,1964.1313,1,Quercus castaneifolia_cerris,Inspected,1
+SHIEL,-121.7629563,38.52933192,1964.1313,2,Quercus castaneifolia_cerris,Inspected,1
+SHIEL,-121.762991,38.529304,1964.1313,3,Quercus castaneifolia_cerris,Inspected,1
+SHIEL,-121.763074,38.529335,1964.1313,4,Quercus castaneifolia_cerris,Inspected,1
+SHIEL,-121.7630652,38.52937718,1964.1313,5,Quercus castaneifolia_cerris,Inspected,1
 SHIEL,-121.7637055,38.52936509,1964.1315,2,Quercus ilex,Inspected,1
 SHIEL,-121.7638345,38.52938874,1964.1315,4,Quercus ilex,Inspected,1
 SHIEL,-121.763559,38.52928841,1964.1324,1,Quercus coccifera,Inspected,1
@@ -372,7 +372,7 @@ SHIEL,-121.7642885,38.52947487,1964.1325,1,Quercus suber,Inspected,1
 SHIEL,-121.7640563,38.52935513,1964.1325,2,Quercus suber,Inspected,1
 SHIEL,-121.7636977,38.52943106,1964.1326,1,Quercus ilex,Inspected,1
 SHIEL,-121.7635831,38.52943672,1964.1326,2,Quercus ilex,Inspected,1
-SHIEL,-121.763935,38.528675,1964.1429,1,Quercus lobata × douglasii,Inspected,1
+SHIEL,-121.763935,38.528675,1964.1429,1,Quercus lobata_douglasii,Inspected,1
 SHIEL,-121.764158,38.528902,1965.0011,1,Quercus engelmannii,Inspected,1
 SHIEL,-121.7642202,38.52882481,1965.0011,2,Quercus engelmannii,Inspected,1
 SHIEL,-121.7642384,38.5289092,1965.0011,3,Quercus engelmannii,Inspected,1
@@ -384,30 +384,30 @@ SHIEL,-121.7641918,38.52937786,1965.0014,3,Quercus agrifolia,Inspected,1
 SHIEL,-121.764143,38.529401,1965.0014,4,Quercus agrifolia,Inspected,1
 SHIEL,-121.764083,38.529398,1965.0014,5,Quercus agrifolia,Inspected,1
 SHIEL,-121.7633999,38.52922794,1965.0838,1,Quercus rugosa,Inspected,1
-SHIEL,-121.7655244,38.52938274,1965.0932,1,Quercus lobata × cornelius-mulleri,Inspected,1
-SHIEL,-121.7653841,38.52930914,1965.0932,2,Quercus lobata × cornelius-mulleri,Inspected,1
+SHIEL,-121.7655244,38.52938274,1965.0932,1,Quercus lobata_cornelius-mulleri,Inspected,1
+SHIEL,-121.7653841,38.52930914,1965.0932,2,Quercus lobata_cornelius-mulleri,Inspected,1
 SHIEL,-121.7631031,38.5287212,1966.0172,1,Quercus prinoides,Inspected,1
 SHIEL,-121.763948,38.529357,1967.0607,1,Quercus brandegeei,Inspected,1
 SHIEL,-121.7639167,38.52930633,1967.0607,2,Quercus brandegeei,Inspected,1
 SHIEL,-121.764303,38.528692,1967.0977,2,Quercus engelmannii,Inspected,1
-SHIEL,-121.764999,38.52914,1967.0978,1,Quercus × acutidens,Inspected,1
-SHIEL,-121.765002,38.529186,1967.0978,2,Quercus × acutidens,Inspected,1
+SHIEL,-121.764999,38.52914,1967.0978,1,Quercus_acutidens,Inspected,1
+SHIEL,-121.765002,38.529186,1967.0978,2,Quercus_acutidens,Inspected,1
 SHIEL,-121.764962,38.529147,1967.1015,1,Quercus engelmannii,Inspected,1
-SHIEL,-121.7654507,38.52949068,1967.1029,1,Quercus macrocarpa × gambelii,Inspected,1
-SHIEL,-121.7653176,38.52950965,1967.1031,1,Quercus turbinella × stellata,Inspected,1
-SHIEL,-121.7652641,38.52933498,1967.1032,1,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.7654406,38.52955803,1967.1033,1,Quercus turbinella × garryana,Inspected,1
-SHIEL,-121.765419,38.529612,1967.1033,2,Quercus turbinella × garryana,Inspected,1
-SHIEL,-121.7654384,38.52937789,1967.1035,1,Quercus macrocarpa × lobata,Inspected,1
-SHIEL,-121.7653121,38.52940729,1967.1036,1,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.765209,38.529592,1967.1038,1,Quercus turbinella × gambelii,Inspected,1
-SHIEL,-121.765225,38.529554,1967.1038,2,Quercus turbinella × gambelii,Inspected,1
+SHIEL,-121.7654507,38.52949068,1967.1029,1,Quercus macrocarpa_gambelii,Inspected,1
+SHIEL,-121.7653176,38.52950965,1967.1031,1,Quercus turbinella_stellata,Inspected,1
+SHIEL,-121.7652641,38.52933498,1967.1032,1,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.7654406,38.52955803,1967.1033,1,Quercus turbinella_garryana,Inspected,1
+SHIEL,-121.765419,38.529612,1967.1033,2,Quercus turbinella_garryana,Inspected,1
+SHIEL,-121.7654384,38.52937789,1967.1035,1,Quercus macrocarpa_lobata,Inspected,1
+SHIEL,-121.7653121,38.52940729,1967.1036,1,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.765209,38.529592,1967.1038,1,Quercus turbinella_gambelii,Inspected,1
+SHIEL,-121.765225,38.529554,1967.1038,2,Quercus turbinella_gambelii,Inspected,1
 SHIEL,-121.7655068,38.52964164,1967.1039,1,Quercus turbinella,Inspected,1
-SHIEL,-121.7653168,38.52955657,1967.104,1,Quercus turbinella × suber,Inspected,1
-SHIEL,-121.765155,38.529591,1967.1041,1,Quercus turbinella × gambelii,Inspected,1
+SHIEL,-121.7653168,38.52955657,1967.104,1,Quercus turbinella_suber,Inspected,1
+SHIEL,-121.765155,38.529591,1967.1041,1,Quercus turbinella_gambelii,Inspected,1
 SHIEL,-121.765199,38.529399,1967.1042,1,Quercus turbinella,Inspected,1
-SHIEL,-121.764635,38.529586,1967.1043,1,Quercus gambelii × sp.,Inspected,1
-SHIEL,-121.765303,38.52961569,1967.1045,1,Quercus turbinella × suber,Inspected,1
+SHIEL,-121.764635,38.529586,1967.1043,1,Quercus gambelii_sp.,Inspected,1
+SHIEL,-121.765303,38.52961569,1967.1045,1,Quercus turbinella_suber,Inspected,1
 SHIEL,-121.7646192,38.52920516,1968.0349,1,Quercus mexicana,Inspected,1
 SHIEL,-121.764624,38.52913,1968.035,1,Quercus obtusata,Inspected,1
 SHIEL,-121.764741,38.529135,1968.035,3,Quercus obtusata,Inspected,1
@@ -428,18 +428,18 @@ SHIEL,-121.764571,38.529278,1968.0361,5,Quercus crassipes,Inspected,1
 SHIEL,-121.7635214,38.52938443,1968.0609,1,Quercus tomentella,Inspected,1
 SHIEL,-121.7639407,38.52907902,1969.0181,1,Quercus acutissima,Inspected,1
 SHIEL,-121.764004,38.529077,1969.0181,2,Quercus acutissima,Inspected,1
-SHIEL,-121.7655133,38.52930971,1971.0127,1,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7654607,38.52927445,1971.0127,2,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7654186,38.52925821,1971.0127,3,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.765259,38.529242,1971.0127,4,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.764915,38.529544,1971.0127,5,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.765175,38.52931448,1971.0127,6,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7650367,38.52959757,1971.0127,7,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7650375,38.52957753,1971.0127,8,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7649933,38.52958988,1971.0127,9,Quercus gambelii × macrocarpa,Inspected,1
-SHIEL,-121.7650511,38.52911152,1971.0128,1,Quercus gambelii × mongolica,Inspected,1
-SHIEL,-121.7651782,38.52922627,1971.0129,1,Quercus gambelii × robur,Inspected,1
-SHIEL,-121.7650902,38.52918422,1971.0129,2,Quercus gambelii × robur,Inspected,1
+SHIEL,-121.7655133,38.52930971,1971.0127,1,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7654607,38.52927445,1971.0127,2,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7654186,38.52925821,1971.0127,3,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.765259,38.529242,1971.0127,4,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.764915,38.529544,1971.0127,5,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.765175,38.52931448,1971.0127,6,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7650367,38.52959757,1971.0127,7,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7650375,38.52957753,1971.0127,8,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7649933,38.52958988,1971.0127,9,Quercus gambelii_macrocarpa,Inspected,1
+SHIEL,-121.7650511,38.52911152,1971.0128,1,Quercus gambelii_mongolica,Inspected,1
+SHIEL,-121.7651782,38.52922627,1971.0129,1,Quercus gambelii_robur,Inspected,1
+SHIEL,-121.7650902,38.52918422,1971.0129,2,Quercus gambelii_robur,Inspected,1
 SHIEL,-121.7656262,38.52937004,1971.013,1,Quercus gambelii,Inspected,1
 SHIEL,-121.7649173,38.52903267,1971.0131,1,Quercus gambelii,Inspected,1
 SHIEL,-121.7649188,38.52950864,1971.0132,1,Quercus garryana,Inspected,1
@@ -450,62 +450,62 @@ SHIEL,-121.7648716,38.52886355,1971.0133,1,Quercus macrocarpa,Inspected,1
 SHIEL,-121.764866,38.52890494,1971.0133,2,Quercus macrocarpa,Inspected,1
 SHIEL,-121.7649596,38.52893859,1971.0133,3,Quercus macrocarpa,Inspected,1
 SHIEL,-121.764918,38.52959,1971.0133,4,Quercus macrocarpa,Inspected,1
-SHIEL,-121.7652027,38.52913811,1971.0134,1,Quercus robur × lobata,Inspected,1
-SHIEL,-121.7642379,38.52847666,1971.0135,1,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.7643172,38.52847304,1971.0135,2,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.7649651,38.52959055,1971.0135,3,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.765153,38.529539,1971.0135,4,Quercus robur × macrocarpa,Inspected,1
-SHIEL,-121.764974,38.529107,1971.0136,1,Quercus robur × mongolica,Inspected,1
-SHIEL,-121.7650148,38.52908598,1971.0136,2,Quercus robur × mongolica,Inspected,1
-SHIEL,-121.764987,38.529471,1971.0136,3,Quercus robur × mongolica,Inspected,1
-SHIEL,-121.764141,38.528749,1971.0137,1,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7647355,38.52883857,1971.0137,2,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.764813,38.52885023,1971.0137,3,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7648578,38.52898766,1971.0137,4,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7647638,38.52904078,1971.0137,5,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.764747,38.528961,1971.0137,6,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.764741,38.528904,1971.0137,7,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7653124,38.52921481,1971.0137,8,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7653241,38.52925876,1971.0137,9,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.765244,38.52928359,1971.0137,10,Quercus robur × turbinella,Inspected,1
-SHIEL,-121.7644985,38.52862141,1971.0138,1,Quercus turbinella × lobata,Inspected,1
-SHIEL,-121.7645836,38.52867101,1971.0138,2,Quercus turbinella × lobata,Inspected,1
-SHIEL,-121.7649917,38.52900632,1971.0139,1,Quercus turbinella × stellata,Inspected,1
-SHIEL,-121.764585,38.52873523,1971.014,1,Quercus turbinella × virginiana,Inspected,1
-SHIEL,-121.7646348,38.52878036,1971.014,2,Quercus turbinella × virginiana,Inspected,1
-SHIEL,-121.764687,38.52875795,1971.014,3,Quercus turbinella × virginiana,Inspected,1
-SHIEL,-121.765118,38.529092,1971.014,4,Quercus turbinella × virginiana,Inspected,1
-SHIEL,-121.765092,38.529065,1971.014,5,Quercus turbinella × virginiana,Inspected,1
-SHIEL,-121.7646582,38.52870734,1971.0143,1,Quercus gambelii × gambelii × havardii,Inspected,1
-SHIEL,-121.7641287,38.52838945,1971.0145,1,Quercus macrocarpa × macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7641831,38.5284173,1971.0145,2,Quercus macrocarpa × macrocarpa × turbinella,Inspected,1
-SHIEL,-121.764978,38.529553,1971.0146,1,Quercus robur × macrocarpa × turbinella,Inspected,1
+SHIEL,-121.7652027,38.52913811,1971.0134,1,Quercus robur_lobata,Inspected,1
+SHIEL,-121.7642379,38.52847666,1971.0135,1,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.7643172,38.52847304,1971.0135,2,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.7649651,38.52959055,1971.0135,3,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.765153,38.529539,1971.0135,4,Quercus robur_macrocarpa,Inspected,1
+SHIEL,-121.764974,38.529107,1971.0136,1,Quercus robur_mongolica,Inspected,1
+SHIEL,-121.7650148,38.52908598,1971.0136,2,Quercus robur_mongolica,Inspected,1
+SHIEL,-121.764987,38.529471,1971.0136,3,Quercus robur_mongolica,Inspected,1
+SHIEL,-121.764141,38.528749,1971.0137,1,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7647355,38.52883857,1971.0137,2,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.764813,38.52885023,1971.0137,3,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7648578,38.52898766,1971.0137,4,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7647638,38.52904078,1971.0137,5,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.764747,38.528961,1971.0137,6,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.764741,38.528904,1971.0137,7,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7653124,38.52921481,1971.0137,8,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7653241,38.52925876,1971.0137,9,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.765244,38.52928359,1971.0137,10,Quercus robur_turbinella,Inspected,1
+SHIEL,-121.7644985,38.52862141,1971.0138,1,Quercus turbinella_lobata,Inspected,1
+SHIEL,-121.7645836,38.52867101,1971.0138,2,Quercus turbinella_lobata,Inspected,1
+SHIEL,-121.7649917,38.52900632,1971.0139,1,Quercus turbinella_stellata,Inspected,1
+SHIEL,-121.764585,38.52873523,1971.014,1,Quercus turbinella_virginiana,Inspected,1
+SHIEL,-121.7646348,38.52878036,1971.014,2,Quercus turbinella_virginiana,Inspected,1
+SHIEL,-121.764687,38.52875795,1971.014,3,Quercus turbinella_virginiana,Inspected,1
+SHIEL,-121.765118,38.529092,1971.014,4,Quercus turbinella_virginiana,Inspected,1
+SHIEL,-121.765092,38.529065,1971.014,5,Quercus turbinella_virginiana,Inspected,1
+SHIEL,-121.7646582,38.52870734,1971.0143,1,Quercus gambelii_gambelii_havardii,Inspected,1
+SHIEL,-121.7641287,38.52838945,1971.0145,1,Quercus macrocarpa_macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7641831,38.5284173,1971.0145,2,Quercus macrocarpa_macrocarpa_turbinella,Inspected,1
+SHIEL,-121.764978,38.529553,1971.0146,1,Quercus robur_macrocarpa_turbinella,Inspected,1
 SHIEL,-121.763601,38.52918084,1971.0155,1,Quercus faginea,Inspected,1
 SHIEL,-121.7644284,38.52888982,1973.0442,1,Quercus pungens,Inspected,1
 SHIEL,-121.7635705,38.52912229,1977.0495,1,Quercus ithaburensis,Inspected,1
 SHIEL,-121.763456,38.529294,1977.0495,2,Quercus ithaburensis,Inspected,1
 SHIEL,-121.763424,38.529272,1977.0495,3,Quercus ithaburensis,Inspected,1
-SHIEL,-121.7651632,38.52875923,1981.0014,1,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7650847,38.52882685,1981.0014,2,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7651732,38.52882241,1981.0014,3,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7651366,38.52889345,1981.0014,4,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7652236,38.52888374,1981.0014,5,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7652689,38.52894205,1981.0014,6,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7653069,38.52888007,1981.0014,7,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7653463,38.52899795,1981.0014,8,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.765352,38.528933,1981.0014,9,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7652414,38.52880058,1981.0014,10,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7653294,38.52882822,1981.0014,11,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7653834,38.52887171,1981.0014,12,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7654258,38.5289528,1981.0014,13,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7655023,38.52897273,1981.0014,14,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.765612,38.52900206,1981.0014,15,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7655527,38.52905219,1981.0014,16,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7654976,38.52904722,1981.0014,17,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7655801,38.52912721,1981.0014,18,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7655357,38.52914222,1981.0014,19,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7654869,38.52909846,1981.0014,20,Quercus macrocarpa × turbinella,Inspected,1
-SHIEL,-121.7654422,38.52906734,1981.0014,21,Quercus macrocarpa × turbinella,Inspected,1
+SHIEL,-121.7651632,38.52875923,1981.0014,1,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7650847,38.52882685,1981.0014,2,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7651732,38.52882241,1981.0014,3,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7651366,38.52889345,1981.0014,4,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7652236,38.52888374,1981.0014,5,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7652689,38.52894205,1981.0014,6,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7653069,38.52888007,1981.0014,7,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7653463,38.52899795,1981.0014,8,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.765352,38.528933,1981.0014,9,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7652414,38.52880058,1981.0014,10,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7653294,38.52882822,1981.0014,11,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7653834,38.52887171,1981.0014,12,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7654258,38.5289528,1981.0014,13,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7655023,38.52897273,1981.0014,14,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.765612,38.52900206,1981.0014,15,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7655527,38.52905219,1981.0014,16,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7654976,38.52904722,1981.0014,17,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7655801,38.52912721,1981.0014,18,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7655357,38.52914222,1981.0014,19,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7654869,38.52909846,1981.0014,20,Quercus macrocarpa_turbinella,Inspected,1
+SHIEL,-121.7654422,38.52906734,1981.0014,21,Quercus macrocarpa_turbinella,Inspected,1
 SHIEL,-121.7626862,38.52810482,1981.0414,1,Quercus robur,Inspected,1
 SHIEL,-121.762791,38.528132,1981.0414,2,Quercus robur,Inspected,1
 SHIEL,-121.7638638,38.52877686,1986.0445,1,Quercus gravesii,Inspected,1
@@ -513,7 +513,7 @@ SHIEL,-121.7638179,38.52871073,1986.0445,2,Quercus gravesii,Inspected,1
 SHIEL,-121.76413,38.52914664,1990.0489,1,Quercus candicans,Inspected,1
 SHIEL,-121.7631691,38.52862419,1994.0497,1,Quercus castaneifolia,Inspected,1
 SHIEL,-121.7640077,38.52820715,1996.0005,1,Quercus douglasii,Inspected,1
-SHIEL,-121.7649736,38.52928332,1998.0112,1,Quercus × hispanica,Inspected,1
+SHIEL,-121.7649736,38.52928332,1998.0112,1,Quercus_hispanica,Inspected,1
 SHIEL,-121.7636216,38.52868787,1999.0233,1,Quercus buckleyi,Inspected,1
 SHIEL,-121.763675,38.528812,1999.0234,1,Quercus fusiformis,Inspected,1
 SHIEL,-121.7633017,38.52866402,1999.0235,1,Quercus muehlenbergii,Inspected,1
@@ -528,7 +528,7 @@ SHIEL,-121.7645,38.528769,2006.1029,1,Quercus undulata,Inspected,1
 SHIEL,-121.764414,38.528784,2006.1033,1,Quercus grisea,Inspected,1
 SHIEL,-121.764402,38.528826,2006.1033,2,Quercus grisea,Inspected,1
 SHIEL,-121.7643751,38.52854053,2006.9002,1,Quercus gambelii,Inspected,1
-SHIEL,-121.7650257,38.52897435,2006.9003,1,Quercus gambelii × sp.,Inspected,1
+SHIEL,-121.7650257,38.52897435,2006.9003,1,Quercus gambelii_sp.,Inspected,1
 SHIEL,-121.765579,38.52956,2006.9084,1,Quercus muehlenbergii,Inspected,1
 SHIEL,-121.7657976,38.52952361,2006.9084,2,Quercus muehlenbergii,Inspected,1
 SHIEL,-121.765771,38.52948,2006.9084,3,Quercus muehlenbergii,Inspected,1
@@ -544,12 +544,12 @@ SHIEL,-121.764647,38.5295282,2009.0941,1,Quercus berberidifolia,Inspected,1
 SHIEL,-121.7646035,38.5295411,2009.0941,2,Quercus berberidifolia,Inspected,1
 SHIEL,-121.7646361,38.52954492,2009.0941,3,Quercus berberidifolia,Inspected,1
 SHIEL,-121.763263,38.529162,2010.0702,1,Quercus lobata,Inspected,1
-SHIEL,-121.765105,38.529599,2010.9001,1,Quercus turbinella × sp.,Inspected,1
+SHIEL,-121.765105,38.529599,2010.9001,1,Quercus turbinella_sp.,Inspected,1
 SHIEL,-121.7643626,38.52891696,2013.0833,1,Quercus laceyi,Inspected,1
 SHIEL,-121.7643365,38.52895658,2013.0833,2,Quercus laceyi,Inspected,1
 SHIEL,-121.7645718,38.52907851,2012.0725,2,Quercus emoryi,Inspected,1
-SHIEL,-121.7646533,38.52890508,2014.0106,1,Quercus gambelii × rugosa,Inspected,1
-SHIEL,-121.7646387,38.52885582,2014.0107,1,Quercus gambelii × macrocarpa,Inspected,1
+SHIEL,-121.7646533,38.52890508,2014.0106,1,Quercus gambelii_rugosa,Inspected,1
+SHIEL,-121.7646387,38.52885582,2014.0107,1,Quercus gambelii_macrocarpa,Inspected,1
 SHIEL,-121.7645544,38.52880815,2014.0108,1,Quercus gambelii,Inspected,1
 SHIEL,-121.7644287,38.52874378,2012.0728,2,Quercus turbinella,Inspected,1
 SHIEL,-121.7637253,38.52867492,2013.0826,1,Quercus buckleyi,Inspected,1
@@ -561,9 +561,9 @@ SHIEL,-121.763567,38.528775,2011.0146,2,Quercus virginiana,Inspected,1
 SHIEL,-121.763583,38.528841,2011.0146,3,Quercus virginiana,Inspected,1
 SHIEL,-121.764422,38.529227,2010.0002,1,Quercus rugosa,Inspected,
 SHIEL,-121.765682,38.529426,2013.0838,1,Quercus rugosa,Inspected,1
-SHIEL,-121.765644,38.529451,2013.0839,1,Quercus rugosa × lobata,Inspected,1
-SHIEL,-121.765666,38.529521,2013.0839,2,Quercus rugosa × lobata,Inspected,1
-SHIEL,-121.765718,38.529549,2013.0839,3,Quercus rugosa × lobata?,Inspected,1
+SHIEL,-121.765644,38.529451,2013.0839,1,Quercus rugosa_lobata,Inspected,1
+SHIEL,-121.765666,38.529521,2013.0839,2,Quercus rugosa_lobata,Inspected,1
+SHIEL,-121.765718,38.529549,2013.0839,3,Quercus rugosa_lobata?,Inspected,1
 SHIEL,-121.765664,38.529577,2013.084,1,Quercus rugosa,Inspected,1
 SHIEL,-121.763348,38.529242,2016.0069,1,Quercus john-tuckeri,Planted,1
 SHIEL,-121.76333,38.529257,2016.0069,2,Quercus john-tuckeri,Planted,1
@@ -593,8 +593,8 @@ SHIEL,-121.763563,38.529616,2019.0114,2,Quercus dumosa,Planted,1
 SHIEL,-121.763535,38.529637,2019.011,1,Quercus dumosa,Planted,1
 SHIEL,-121.763518,38.529617,2019.011,2,Quercus dumosa,Planted,1
 SHIEL,-121.763502,38.529637,2019.011,3,Quercus dumosa,Planted,1
-SHIEL,-121.764256,38.530007,2018.1355,4,Quercus graciliformis × gravesii,Planted,1
-SHIEL,-121.764326,38.530006,2018.1366,9,Quercus graciliformis × gravesii,Planted,1
+SHIEL,-121.764256,38.530007,2018.1355,4,Quercus graciliformis_gravesii,Planted,1
+SHIEL,-121.764326,38.530006,2018.1366,9,Quercus graciliformis_gravesii,Planted,1
 SHIEL,-121.764821,38.530012,2019.0848,1,Quercus fusiformis,Planted,1
 SHIEL,-121.763124,38.528224,2018.1365,1,Quercus robusta,Planted,1
 SHIEL,-121.763958,38.528871,2018.1365,2,Quercus robusta,Planted,1
@@ -621,7 +621,7 @@ SHIEL,-121.765544,38.530017,2019.1128,2,Quercus canbyi,Planted,
 SHIEL,-121.765464,38.530016,2019.1128,3,Quercus canbyi,Planted,
 SOAF,-121.761078,38.529419,1968.9032,27,Quercus agrifolia,Inspected,1
 SOAF,-121.761063,38.529599,1968.9032,28,Quercus agrifolia,Inspected,1
-STOR,-121.7628619,38.52961461,1964.1428,1,Quercus robur × robur,Inspected,1
+STOR,-121.7628619,38.52961461,1964.1428,1,Quercus robur_robur,Inspected,1
 1,-121.762677,38.529599,1964.0371,10,Quercus robur,Inspected,1
 19,-121.763022,38.529618,1964.0371,11,Quercus robur,Inspected,1
 19,-121.763084,38.529616,1964.0371,12,Quercus robur,Inspected,1
@@ -675,16 +675,16 @@ WSTOR,-121.764683,38.53000691,1968.0605,4,Quercus parvula,Inspected,1
 WSTOR,-121.7646651,38.5300071,1968.0605,5,Quercus parvula,Inspected,1
 WSTOR,-121.764642,38.53000706,1968.0605,6,Quercus parvula,Inspected,1
 YOLO,-121.761697,38.52854016,1933.9041,50,Quercus lobata,Inspected,1
-YOLO,-121.761727,38.528734,1974.0008,1,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7615789,38.52882412,1974.0008,2,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7615443,38.52884656,1974.0008,3,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7614849,38.52881706,1974.0008,4,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7615381,38.52881305,1974.0008,5,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7615661,38.52878208,1974.0008,6,Quercus × macdonaldii,Inspected,1
-YOLO,-121.761554,38.52875762,1974.0008,7,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7613048,38.52906821,1974.0008,8,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7613174,38.52904188,1974.0008,9,Quercus × macdonaldii,Inspected,1
-YOLO,-121.7612993,38.52901521,1974.0008,10,Quercus × macdonaldii,Inspected,1
+YOLO,-121.761727,38.528734,1974.0008,1,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7615789,38.52882412,1974.0008,2,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7615443,38.52884656,1974.0008,3,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7614849,38.52881706,1974.0008,4,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7615381,38.52881305,1974.0008,5,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7615661,38.52878208,1974.0008,6,Quercus_macdonaldii,Inspected,1
+YOLO,-121.761554,38.52875762,1974.0008,7,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7613048,38.52906821,1974.0008,8,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7613174,38.52904188,1974.0008,9,Quercus_macdonaldii,Inspected,1
+YOLO,-121.7612993,38.52901521,1974.0008,10,Quercus_macdonaldii,Inspected,1
 YOLO,-121.7619448,38.52844099,1974.011,1,Quercus lobata,Inspected,1
 YOLO,-121.761901,38.52848429,1974.011,2,Quercus lobata,Inspected,1
 YOLO,-121.7613341,38.52897738,1976.0022,1,Quercus turbinella,Inspected,1

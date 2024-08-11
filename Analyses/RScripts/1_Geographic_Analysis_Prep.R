@@ -8,8 +8,10 @@ library(sjmisc)
 ###########################
 #     Load Data Files     #
 ###########################
-setwd("../../Data_Files/Geographic_Files")
-QUoc <- list.files(pattern = "_QUocc.csv$")
+#setwd("USBG_Hybrid_Acorn/Data_Files/Geographic_Files")
+
+#
+QUoc <- list.files(pattern = "_QUocc.csv")
 
 red_oak_names <- c("Quercus acerifolia", "Quercus acutifolia", "Quercus agrifolia", 
                    "Quercus albocincta", "Quercus aristata", "Quercus arkansana", 
@@ -41,8 +43,8 @@ red_oak_names <- c("Quercus acerifolia", "Quercus acutifolia", "Quercus agrifoli
                    "Quercus viminea", "Quercus wislizeni", "Quercus xalapensis")
 
 white_oak_names <- c("Quercus ajoensis", "Quercus alba", "Quercus aliena", 
-                     "Quercus arizonica", "Quercus austrina", "Quercus × bebbiana", 
-                     "Quercus berberidifolia", "Quercus bicolor", "Quercus × bimundorum", 
+                     "Quercus arizonica", "Quercus austrina", "Quercus ? bebbiana", 
+                     "Quercus berberidifolia", "Quercus bicolor", "Quercus ? bimundorum", 
                      "Quercus boyntonii", "Quercus brandegeei", "Quercus carmenensis", 
                      "Quercus chapmanii", "Quercus chihuahuensis", 
                      "Quercus cornelius-mulleri", "Quercus conzattii", "Quercus copeyensis", 
@@ -68,11 +70,11 @@ white_oak_names <- c("Quercus ajoensis", "Quercus alba", "Quercus aliena",
                      "Quercus petraea", "Quercus polymorpha", "Quercus praeco", 
                      "Quercus prinoides", "Quercus pubescens", "Quercus pungens", 
                      "Quercus robur", "Quercus rugosa", "Quercus sagraeana", 
-                     "Quercus × schuettei", "Quercus sebifera", "Quercus serrata", 
+                     "Quercus ? schuettei", "Quercus sebifera", "Quercus serrata", 
                      "Quercus similis", "Quercus sinuata", "Quercus sinuata var. breviloba", 
                      "Quercus sinuata var. sinuata", "Quercus stellata", "Quercus striatula",
                      "Quercus subspathulata", "Quercus tarahumara", "Quercus toumeyi", 
-                     "Quercus tuberculata", "Quercus turbinella", "Quercus × turneri", 
+                     "Quercus tuberculata", "Quercus turbinella", "Quercus ? turneri", 
                      "Quercus vaseyana", "Quercus vincentensis", "Quercus virginiana", 
                      "Quercus welshii", "Quercus wutaishanica")
 
@@ -94,6 +96,8 @@ cerris_oaks <- c("Quercus acutissima", "Quercus alnifolia", "Quercus aquifolioid
 ###################################
 #create list to store duplicates 
 sp_limited_names <- list()
+
+garden <- 3
 
 for(garden in 1:length(QUoc)){
   

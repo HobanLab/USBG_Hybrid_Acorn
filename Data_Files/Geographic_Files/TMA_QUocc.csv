@@ -614,12 +614,12 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 641-2015*1,-88.066569,41.815293,2015,w,Quercus arkansana,QUERCUSARKANSANA,Rare & Endangered Plants,,P-58/06-69,
 903-2005*1,-88.053234,41.814386,2005,w,Quercus baronii,QUERCUSBARONII,Quercus,south section,K-94/53-93,ND
 903-2005*4,-88.053035,41.814448,2005,w,Quercus baronii,QUERCUSBARONII,Quercus,south section,K-95/74-48,ND
-441-42*1,-88.051485,41.814561,1942,g,Quercus × bebbiana,QUERCUSBEBBIANA,Quercus,north section,L-99/01-72,T
-645-33*1,-88.070343,41.819479,1933,g,Quercus × bebbiana,QUERCUSBEBBIANA,Park Boulevard,,EE-48/66-92,ND
-697-57*1,-88.051428,41.814769,1957,g,Quercus × bebbiana,QUERCUSBEBBIANA,Quercus,north section,L-99/76-90,T
-706-72*2,-88.049971,41.81527,1972,g,Quercus × bebbiana,QUERCUSBEBBIANA,Quercus,north section,N-103/45-93,T
-749-34*1,-88.050096,41.814108,1934,g,Quercus × bebbiana,QUERCUSBEBBIANA,Quercus,north section,J-103/23-45,ND
-399-U*1,-88.06918,41.815961,,u,Quercus × benderi,QUERCUSBENDERI,Visitor Center Parking,picnic area,R-51/74-66,T
+441-42*1,-88.051485,41.814561,1942,g,Quercus _bebbiana,QUERCUSBEBBIANA,Quercus,north section,L-99/01-72,T
+645-33*1,-88.070343,41.819479,1933,g,Quercus _bebbiana,QUERCUSBEBBIANA,Park Boulevard,,EE-48/66-92,ND
+697-57*1,-88.051428,41.814769,1957,g,Quercus _bebbiana,QUERCUSBEBBIANA,Quercus,north section,L-99/76-90,T
+706-72*2,-88.049971,41.81527,1972,g,Quercus _bebbiana,QUERCUSBEBBIANA,Quercus,north section,N-103/45-93,T
+749-34*1,-88.050096,41.814108,1934,g,Quercus _bebbiana,QUERCUSBEBBIANA,Quercus,north section,J-103/23-45,ND
+399-U*1,-88.06918,41.815961,,u,Quercus _benderi,QUERCUSBENDERI,Visitor Center Parking,picnic area,R-51/74-66,T
 109-2018*1,-88.084946,41.81659,2018,g,Quercus bicolor,QUERCUSBICOLOR,Morton West Side,Pine Hill,V-8/49-77,ND
 109-2018*2,-88.084957,41.81691,2018,g,Quercus bicolor,QUERCUSBICOLOR,Morton West Side,Pine Hill,W-8/66-78,ND
 12-2004*2,-88.053044,41.81539,2004,w,Quercus bicolor,QUERCUSBICOLOR,Quercus,north section,O-95/17-57,T
@@ -781,8 +781,8 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 868-2017*7,-88.067186,41.818954,2017,g,Quercus bicolor,QUERCUSBICOLOR,DuPage River-East Side,Route 53 border,CC-57/46-46,ND
 868-2017*8,-88.066983,41.81899,2017,g,Quercus bicolor,QUERCUSBICOLOR,DuPage River-East Side,Route 53 border,CC-58/57-02,ND
 868-2017*9,-88.065265,41.819576,2017,g,Quercus bicolor,QUERCUSBICOLOR,DuPage River-East Side,Route 53 border,EE-62/54-77,ND
-210-2012*1,-88.053969,41.814485,2012,g,Quercus × bimundorum,QUERCUSBIMUNDORUMJFSKW1QX,Quercus,south section,K-92/96-94,ND
-253-2017*1,-88.072218,41.811857,2017,g,Quercus × bimundorum,QUERCUSBIMUNDORUMMIDWEST,Firefly Pond,,D-42/07-88,ND
+210-2012*1,-88.053969,41.814485,2012,g,Quercus _bimundorum,QUERCUSBIMUNDORUMJFSKW1QX,Quercus,south section,K-92/96-94,ND
+253-2017*1,-88.072218,41.811857,2017,g,Quercus _bimundorum,QUERCUSBIMUNDORUMMIDWEST,Firefly Pond,,D-42/07-88,ND
 635-2015*1,-88.066579,41.815423,2015,w,Quercus boyntonii,QUERCUSBOYNTONII,Rare & Endangered Plants,,P-58/54-68,
 417-45*1,-88.050846,41.813971,1945,z,Quercus buckleyi,QUERCUSBUCKLEYI,Quercus,north section,I-101/80-39,T
 417-45*2,-88.065998,41.811098,1945,z,Quercus buckleyi,QUERCUSBUCKLEYI,Centennial Grove,,AZ-59/73-74,T
@@ -793,8 +793,8 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 417-45*7,-88.066006,41.811696,1945,z,Quercus buckleyi,QUERCUSBUCKLEYI,Rosaceae,,B-59/91-79,T
 417-45*8,-88.065647,41.811691,1945,z,Quercus buckleyi,QUERCUSBUCKLEYI,Rosaceae,,B-60/86-77,T
 417-45*9,-88.066508,41.811763,1945,z,Quercus buckleyi,QUERCUSBUCKLEYI,Rosaceae,,C-58/20-43,T
-453-94*1,-88.050413,41.814396,1994,w,Quercus × bushii,QUERCUSBUSHII,Quercus,north section,K-102/31-62,
-453-94*2,-88.050358,41.814469,1994,w,Quercus × bushii,QUERCUSBUSHII,Quercus,north section,K-102/57-78,
+453-94*1,-88.050413,41.814396,1994,w,Quercus _bushii,QUERCUSBUSHII,Quercus,north section,K-102/31-62,
+453-94*2,-88.050358,41.814469,1994,w,Quercus _bushii,QUERCUSBUSHII,Quercus,north section,K-102/57-78,
 281-72*1,-88.06117,41.820703,1972,g,Quercus cerris,QUERCUSCERRIS,East Woods,,II-74/27-07,ND
 494-2012*1,-88.076685,41.818252,2012,w,Quercus cerris,QUERCUSCERRIS,Europe,,AA-31/78-49,ND
 494-2012*2,-88.076472,41.818128,2012,w,Quercus cerris,QUERCUSCERRIS,Europe,,AA-32/31-05,ND
@@ -812,14 +812,14 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 435-2004*1,-88.053355,41.814868,2004,w,Quercus coccinea,QUERCUSCOCCINEA1,Quercus,south section,M-94/30-66,T
 790-22*1,-88.083493,41.817176,1922,g,Quercus coccinea,QUERCUSCOCCINEA1,Lake Marmo Landscape Planting,,X-12/49-80,T
 286-97*2,-88.050811,41.814438,1997,w,Quercus dalechampii,QUERCUSDALECHAMPII,Quercus,north section,K-101/50-54,ND
-1258-26*3,-88.049819,41.81406,1926,z,Quercus × deamii,QUERCUSDEAMII,Quercus,north section,J-104/03-20,T
-3-2008*1,-88.053117,41.814147,2008,z,Quercus × deamii,QUERCUSDEAMII,Quercus,south section,J-95/65-22,ND
-3-2008*2,-88.053325,41.814279,2008,z,Quercus × deamii,QUERCUSDEAMII,Quercus,south section,K-94/15-67,ND
-616-30*1,-88.052488,41.814264,1930,u,Quercus × deamii,QUERCUSDEAMII,Quercus,south section,K-96/02-95,ND
-616-30*3,-88.067528,41.816267,1930,u,Quercus × deamii,QUERCUSDEAMII,Meadow Lake,east side,S-56/70-20,ND
-616-30*4,-88.051946,41.814533,1930,u,Quercus × deamii,QUERCUSDEAMII,Quercus,north section,K-98/95-46,ND
-616-30*6,-88.052083,41.814574,1930,u,Quercus × deamii,QUERCUSDEAMII,Quercus,north section,L-98/11-09,ND
-616-30*8,-88.05189,41.814603,1930,u,Quercus × deamii,QUERCUSDEAMII,Quercus,north section,L-98/20-62,ND
+1258-26*3,-88.049819,41.81406,1926,z,Quercus _deamii,QUERCUSDEAMII,Quercus,north section,J-104/03-20,T
+3-2008*1,-88.053117,41.814147,2008,z,Quercus _deamii,QUERCUSDEAMII,Quercus,south section,J-95/65-22,ND
+3-2008*2,-88.053325,41.814279,2008,z,Quercus _deamii,QUERCUSDEAMII,Quercus,south section,K-94/15-67,ND
+616-30*1,-88.052488,41.814264,1930,u,Quercus _deamii,QUERCUSDEAMII,Quercus,south section,K-96/02-95,ND
+616-30*3,-88.067528,41.816267,1930,u,Quercus _deamii,QUERCUSDEAMII,Meadow Lake,east side,S-56/70-20,ND
+616-30*4,-88.051946,41.814533,1930,u,Quercus _deamii,QUERCUSDEAMII,Quercus,north section,K-98/95-46,ND
+616-30*6,-88.052083,41.814574,1930,u,Quercus _deamii,QUERCUSDEAMII,Quercus,north section,L-98/11-09,ND
+616-30*8,-88.05189,41.814603,1930,u,Quercus _deamii,QUERCUSDEAMII,Quercus,north section,L-98/20-62,ND
 173-2001*1,-88.0644,41.817529,2001,z,Quercus dentata,QUERCUSDENTATA,China,south section,X-64/01-88,ND
 173-2001*2,-88.064301,41.817535,2001,z,Quercus dentata,QUERCUSDENTATA,China,south section,X-65/02-15,ND
 2646-22*1,-88.064318,41.818901,1922,z,Quercus dentata,QUERCUSDENTATA,China,north section,CC-65/00-27,T
@@ -909,21 +909,21 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 869-2017*7,-88.080066,41.809995,2017,g,Quercus ellipsoidalis,QUERCUSELLIPSOIDALIS,DuPage River-West Side,Arbor Lake & river,AX-21/02-26,ND
 869-2017*8,-88.080044,41.810065,2017,g,Quercus ellipsoidalis,QUERCUSELLIPSOIDALIS,DuPage River-West Side,Arbor Lake & river,AX-21/27-33,ND
 869-2017*9,-88.080005,41.81122,2017,g,Quercus ellipsoidalis,QUERCUSELLIPSOIDALIS,DuPage River-West Side,Arbor Lake & river,B-21/47-58,ND
-501-36*1,-88.051705,41.814896,1936,g,Quercus × exacta,QUERCUSEXACTA,Quercus,north section,M-99/25-16,ND
+501-36*1,-88.051705,41.814896,1936,g,Quercus _exacta,QUERCUSEXACTA,Quercus,north section,M-99/25-16,ND
 359-2014*1,-88.075951,41.818778,2014,g,Quercus faginea,QUERCUSFAGINEA,Europe,,CC-33/63-55,ND
 359-2014*2,-88.054167,41.814152,2014,g,Quercus faginea,QUERCUSFAGINEA,Quercus,,J-92/77-36,ND
 359-2014*3,-88.054275,41.814185,2014,g,Quercus faginea,QUERCUSFAGINEA,Quercus,,J-92/90-07,ND
 17-2011*2,-88.04986,41.814158,2011,g,Quercus faginea,QUERCUSFAGINEAFAGINEA,Quercus,north section,J-104/39-10,ND
 1164-2004*2,-88.078286,41.815609,2004,w,Quercus falcata,QUERCUSFALCATA1,Lake Jopamaca,west side,R-26/30-80,T
-1140-2004*1,-88.053604,41.814774,2004,w,Quercus × fernowii,QUERCUSFERNOWII,Quercus,south section,L-93/98-97,ND
-1140-2004*4,-88.053637,41.814864,2004,w,Quercus × fernowii,QUERCUSFERNOWII,Quercus,south section,M-93/31-89,ND
-1140-2004*5,-88.053478,41.81483,2004,w,Quercus × fernowii,QUERCUSFERNOWII,Quercus,south section,M-94/17-32,ND
-1643-35*1,-88.049394,41.812758,1935,g,Quercus × fernowii,QUERCUSFERNOWII,Quercus,south section,E-105/25-20,T
-210-91*1,-88.062858,41.814562,1991,w,Quercus × fernowii,QUERCUSFERNOWII,Midwest,east section,M-68/06-72,T
-210-91*2,-88.052038,41.815135,1991,w,Quercus × fernowii,QUERCUSFERNOWII,Quercus,north section,N-98/15-28,T
-210-91*3,-88.052127,41.815229,1991,w,Quercus × fernowii,QUERCUSFERNOWII,Quercus,north section,N-98/50-05,T
-210-91*5,-88.062814,41.814484,1991,w,Quercus × fernowii,QUERCUSFERNOWII,Midwest,east section,L-68/77-83,T
-1444-2004*1,-88.05148,41.813395,2004,w,Quercus × fontana,QUERCUSFONTANA,Quercus,south section,G-99/76-59,T
+1140-2004*1,-88.053604,41.814774,2004,w,Quercus _fernowii,QUERCUSFERNOWII,Quercus,south section,L-93/98-97,ND
+1140-2004*4,-88.053637,41.814864,2004,w,Quercus _fernowii,QUERCUSFERNOWII,Quercus,south section,M-93/31-89,ND
+1140-2004*5,-88.053478,41.81483,2004,w,Quercus _fernowii,QUERCUSFERNOWII,Quercus,south section,M-94/17-32,ND
+1643-35*1,-88.049394,41.812758,1935,g,Quercus _fernowii,QUERCUSFERNOWII,Quercus,south section,E-105/25-20,T
+210-91*1,-88.062858,41.814562,1991,w,Quercus _fernowii,QUERCUSFERNOWII,Midwest,east section,M-68/06-72,T
+210-91*2,-88.052038,41.815135,1991,w,Quercus _fernowii,QUERCUSFERNOWII,Quercus,north section,N-98/15-28,T
+210-91*3,-88.052127,41.815229,1991,w,Quercus _fernowii,QUERCUSFERNOWII,Quercus,north section,N-98/50-05,T
+210-91*5,-88.062814,41.814484,1991,w,Quercus _fernowii,QUERCUSFERNOWII,Midwest,east section,L-68/77-83,T
+1444-2004*1,-88.05148,41.813395,2004,w,Quercus _fontana,QUERCUSFONTANA,Quercus,south section,G-99/76-59,T
 360-2014*1,-88.076373,41.818702,2014,g,Quercus frainetto,QUERCUSFRAINETTO,Europe,,CC-32/39-39,ND
 360-2014*2,-88.052466,41.81442,2014,g,Quercus frainetto,QUERCUSFRAINETTO,Quercus,,K-97/59-03,ND
 591-2015*1,-88.053632,41.814386,2015,g,Quercus franchetii,QUERCUSFRANCHETII,Quercus,,K-93/57-84,
@@ -946,9 +946,9 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 49-2002*3,-88.053271,41.814975,2002,w,Quercus georgiana,QUERCUSGEORGIANA,Quercus,south section,M-94/68-90,T
 49-2002*4,-88.053173,41.814997,2002,w,Quercus georgiana,QUERCUSGEORGIANA,Quercus,south section,M-95/75-17,T
 49-2002*5,-88.053238,41.815055,2002,w,Quercus georgiana,QUERCUSGEORGIANA,Quercus,south section,M-95/97-00,T
-544-2006*1,-88.053028,41.814709,2006,g,Quercus × guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-95/69-53,ND
-544-2006*2,-88.052789,41.814603,2006,g,Quercus × guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-96/28-17,ND
-544-2006*3,-88.052745,41.814766,2006,g,Quercus × guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-96/87-31,ND
+544-2006*1,-88.053028,41.814709,2006,g,Quercus _guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-95/69-53,ND
+544-2006*2,-88.052789,41.814603,2006,g,Quercus _guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-96/28-17,ND
+544-2006*3,-88.052745,41.814766,2006,g,Quercus _guadalupensis,QUERCUSGUADALUPENSIS,Quercus,south section,L-96/87-31,ND
 27-95*1,-88.075797,41.81934,1995,w,Quercus hartwissiana,QUERCUSHARTWISSIANA1,Europe,,EE-34/66-04,ND
 27-95*3,-88.051272,41.814649,1995,w,Quercus hartwissiana,QUERCUSHARTWISSIANA1,Quercus,north section,L-100/31-31,ND
 27-95*7,-88.075666,41.819289,1995,w,Quercus hartwissiana,QUERCUSHARTWISSIANA1,Europe,,EE-34/46-39,ND
@@ -957,12 +957,12 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 36-2014*1,-88.050024,41.814647,2014,w,Quercus hemisphaerica,QUERCUSHEMISPHAERICA1,Quercus,,L-103/19-71,ND
 37-2014*1,-88.049773,41.814472,2014,w,Quercus hemisphaerica,QUERCUSHEMISPHAERICA1,Quercus,,K-104/53-37,T
 37-2014*3,-88.04983,41.814738,2014,w,Quercus hemisphaerica,QUERCUSHEMISPHAERICA1,Quercus,,L-104/50-25,T
-699-50*1,-88.06631,41.811194,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,A-58/11-90,T
-699-50*2,-88.066252,41.81119,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,A-59/09-06,T
-699-50*3,-88.066283,41.810901,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-58/04-94,T
-699-50*4,-88.066205,41.81098,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/32-16,T
-699-50*5,-88.066246,41.811069,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/65-06,T
-699-50*7,-88.066181,41.811162,1950,g,Quercus × humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/98-25,ND
+699-50*1,-88.06631,41.811194,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,A-58/11-90,T
+699-50*2,-88.066252,41.81119,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,A-59/09-06,T
+699-50*3,-88.066283,41.810901,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-58/04-94,T
+699-50*4,-88.066205,41.81098,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/32-16,T
+699-50*5,-88.066246,41.811069,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/65-06,T
+699-50*7,-88.066181,41.811162,1950,g,Quercus _humidicola,QUERCUSHUMIDICOLA,Centennial Grove,,AZ-59/98-25,ND
 260-93*1,-88.051128,41.814137,1993,w,Quercus ilicifolia,QUERCUSILICIFOLIA,Quercus,north section,J-100/43-64,T
 260-93*2,-88.051155,41.814238,1993,w,Quercus ilicifolia,QUERCUSILICIFOLIA,Quercus,north section,J-100/80-58,T
 108-2018*1,-88.085593,41.816604,2018,g,Quercus imbricaria,QUERCUSIMBRICARIA,Morton West Side,Pine Hill,V-7/60-01,ND
@@ -1003,12 +1003,12 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 926-62*1,-88.07165,41.813282,1962,g,Quercus imbricaria,QUERCUSIMBRICARIA,Hedge Garden,lower terrace,I-44/21-60,T
 357-2014*1,-88.053411,41.814239,2014,w,Quercus infectoria,QUERCUSINFECTORIAVENERIS,Quercus,,K-94/02-43,ND
 460-2015*1,-88.081014,41.816069,2015,g,Quercus invaginata,QUERCUSINVAGINATA,Cedar Point,,T-19/23-42,
-1089-39*1,-88.052868,41.814488,1939,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,south section,K-95/87-94,ND
-471-42*1,-88.050856,41.814712,1942,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,north section,L-101/50-45,T
-471-42*2,-88.050835,41.814798,1942,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,north section,L-101/81-52,T
-471-42*3,-88.050765,41.814893,1942,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,north section,M-101/15-72,T
-654-32*1,-88.051026,41.814636,1932,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,north section,L-100/24-98,T
-685-33*1,-88.051412,41.8145,1933,g,Quercus × jackiana,QUERCUSJACKIANA,Quercus,north section,K-99/78-91,T
+1089-39*1,-88.052868,41.814488,1939,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,south section,K-95/87-94,ND
+471-42*1,-88.050856,41.814712,1942,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,north section,L-101/50-45,T
+471-42*2,-88.050835,41.814798,1942,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,north section,L-101/81-52,T
+471-42*3,-88.050765,41.814893,1942,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,north section,M-101/15-72,T
+654-32*1,-88.051026,41.814636,1932,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,north section,L-100/24-98,T
+685-33*1,-88.051412,41.8145,1933,g,Quercus _jackiana,QUERCUSJACKIANA,Quercus,north section,K-99/78-91,T
 169-2015*1,-88.049795,41.81479,2015,g,Quercus laurifolia,QUERCUSLAURIFOLIA,Quercus,north section,L-104/69-35,ND
 600-2015*2,-88.049319,41.814419,2015,w,Quercus laurifolia,QUERCUSLAURIFOLIA,Quercus,,K-105/29-61,ND
 600-2015*3,-88.049913,41.814763,2015,w,Quercus laurifolia,QUERCUSLAURIFOLIA,Quercus,,L-104/60-03,ND
@@ -1018,22 +1018,22 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 1133-2004*1,-88.052622,41.815398,2004,w,Quercus lyrata,QUERCUSLYRATA,Quercus,north section,O-96/16-72,T
 179-95*1,-88.049523,41.81435,1995,w,Quercus lyrata,QUERCUSLYRATA,Quercus,north section,K-105/06-04,T
 517-2000*2,-88.049656,41.813457,2000,w,Quercus lyrata,QUERCUSLYRATA,Quercus,south section,G-104/82-57,ND
-127-2009*1,-88.077955,41.821309,2009,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,MM-28/03-40,ND
-127-2009*2,-88.052365,41.814553,2009,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Quercus,south section,L-97/06-32,ND
-157-2016*1,-88.07783,41.821318,2016,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,MM-28/05-74,ND
-330-2018*1,-88.076869,41.821332,2018,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Education Support Building,,MM-31/01-36,ND
-330-2018*2,-88.076742,41.821441,2018,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Education Support Building,,MM-31/39-72,ND
-332-2017*1,-88.072827,41.81135,2017,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,B-41/28-16,ND
-332-2017*2,-88.072961,41.811549,2017,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,C-40/02-82,ND
-332-2017*3,-88.073068,41.811748,2017,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,C-40/75-55,ND
-35-2007*1,-88.053914,41.814574,2007,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Quercus,south section,L-93/28-10,ND
-35-2007*2,-88.076805,41.810505,2007,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,West Illinois 53,tollway landscape,AY-30/57-21,ND
-35-2007*3,-88.070197,41.816389,2007,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Visitor Center Parking,northwest median,T-48/39-94,ND
-35-2007*4,-88.070287,41.816345,2007,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Visitor Center Parking,northwest median,T-48/24-69,ND
-35-2007*5,-88.072933,41.81184,2007,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,D-40/07-93,ND
-71-2013*1,-88.09421,41.8192,2013,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Acorn Hill,,FF-017/86-84,ND
-71-2013*2,-88.094317,41.819205,2013,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Acorn Hill,,FF-017/89-55,ND
-71-2013*3,-88.077739,41.82124,2013,g,Quercus × macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,LL-28/76-98,ND
+127-2009*1,-88.077955,41.821309,2009,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,MM-28/03-40,ND
+127-2009*2,-88.052365,41.814553,2009,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Quercus,south section,L-97/06-32,ND
+157-2016*1,-88.07783,41.821318,2016,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,MM-28/05-74,ND
+330-2018*1,-88.076869,41.821332,2018,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Education Support Building,,MM-31/01-36,ND
+330-2018*2,-88.076742,41.821441,2018,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Education Support Building,,MM-31/39-72,ND
+332-2017*1,-88.072827,41.81135,2017,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,B-41/28-16,ND
+332-2017*2,-88.072961,41.811549,2017,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,C-40/02-82,ND
+332-2017*3,-88.073068,41.811748,2017,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,C-40/75-55,ND
+35-2007*1,-88.053914,41.814574,2007,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Quercus,south section,L-93/28-10,ND
+35-2007*2,-88.076805,41.810505,2007,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,West Illinois 53,tollway landscape,AY-30/57-21,ND
+35-2007*3,-88.070197,41.816389,2007,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Visitor Center Parking,northwest median,T-48/39-94,ND
+35-2007*4,-88.070287,41.816345,2007,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Visitor Center Parking,northwest median,T-48/24-69,ND
+35-2007*5,-88.072933,41.81184,2007,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Service Area,,D-40/07-93,ND
+71-2013*1,-88.09421,41.8192,2013,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Acorn Hill,,FF-017/86-84,ND
+71-2013*2,-88.094317,41.819205,2013,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Acorn Hill,,FF-017/89-55,ND
+71-2013*3,-88.077739,41.82124,2013,g,Quercus _macdanielii,QUERCUSMACDANIELIICLEMONS,Thornhill Parking,shelter,LL-28/76-98,ND
 19-2012*1,-88.049697,41.814453,2012,z,Quercus macranthera ,QUERCUSMACRANTHERA,Quercus,north section,K-104/45-58,ND
 19-2012*2,-88.049814,41.814649,2012,z,Quercus macranthera ,QUERCUSMACRANTHERA,Quercus,north section,L-104/17-28,ND
 1030-2004*2,-88.080133,41.822093,2004,g,Quercus macrocarpa,QUERCUSMACROCARPA,Thornhill Overflow Lot,median,PP-22/09-56,ND
@@ -1825,15 +1825,15 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 885-2017*5,-88.075831,41.81189,2017,g,Quercus rubra,QUERCUSRUBRA,DuPage River-East Side,Arbor Lake & river,D-33/53-04,ND
 885-2017*6,-88.079619,41.811803,2017,g,Quercus rubra,QUERCUSRUBRA,DuPage River-East Side,Arbor Lake & river,E-22/00-41,ND
 9-2008*1,-88.051889,41.813835,2008,g,Quercus rubra,QUERCUSRUBRASCHREFELDII,Quercus,south section,I-98/40-53,ND
-502-36*1,-88.051795,41.814864,1936,g,Quercus × runcinata,QUERCUSRUNCINATA,Quercus,north section,M-98/14-91,ND
-634-49*1,-88.06653,41.811177,1949,g,Quercus × runcinata,QUERCUSRUNCINATA,Centennial Grove,,A-58/07-30,T
-634-49*2,-88.064064,41.811668,1949,g,Quercus × runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/63-08,T
-634-49*3,-88.063902,41.811722,1949,g,Quercus × runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/81-53,T
-634-49*4,-88.063875,41.811772,1949,g,Quercus × runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/99-61,T
-580-32*2,-88.052065,41.814917,1932,g,Quercus × saulii,QUERCUSSAULII,Quercus,north section,M-98/36-18,ND
-254-98*1,-88.078111,41.821277,1998,g,Quercus × schuettei,QUERCUSSCHUETTEI,Thornhill Parking,east side,LL-27/93-97,T
-863-34*1,-88.049078,41.813906,1934,g,Quercus × schuettei,QUERCUSSCHUETTEI,Quercus,north section,I-106/40-20,T
-928-62*1,-88.050467,41.815024,1962,g,Quercus × schuettei,QUERCUSSCHUETTEI,Quercus,north section,M-102/61-59,T
+502-36*1,-88.051795,41.814864,1936,g,Quercus _runcinata,QUERCUSRUNCINATA,Quercus,north section,M-98/14-91,ND
+634-49*1,-88.06653,41.811177,1949,g,Quercus _runcinata,QUERCUSRUNCINATA,Centennial Grove,,A-58/07-30,T
+634-49*2,-88.064064,41.811668,1949,g,Quercus _runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/63-08,T
+634-49*3,-88.063902,41.811722,1949,g,Quercus _runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/81-53,T
+634-49*4,-88.063875,41.811772,1949,g,Quercus _runcinata,QUERCUSRUNCINATA,Rosaceae,,B-65/99-61,T
+580-32*2,-88.052065,41.814917,1932,g,Quercus _saulii,QUERCUSSAULII,Quercus,north section,M-98/36-18,ND
+254-98*1,-88.078111,41.821277,1998,g,Quercus _schuettei,QUERCUSSCHUETTEI,Thornhill Parking,east side,LL-27/93-97,T
+863-34*1,-88.049078,41.813906,1934,g,Quercus _schuettei,QUERCUSSCHUETTEI,Quercus,north section,I-106/40-20,T
+928-62*1,-88.050467,41.815024,1962,g,Quercus _schuettei,QUERCUSSCHUETTEI,Quercus,north section,M-102/61-59,T
 28-93*1,-88.064469,41.816202,1993,w,Quercus serrata,QUERCUSSERRATA1,Korea,,S-64/18-53,ND
 309-2017*1,-88.066259,41.816362,2017,w,Quercus serrata,QUERCUSSERRATA1,Japan,,S-59/93-67,
 309-2017*2,-88.050882,41.814407,2017,w,Quercus serrata,QUERCUSSERRATA1,Quercus,,K-101/39-34,
@@ -1891,8 +1891,8 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 479-2001*1,-88.062894,41.815127,2001,w,Quercus stellata,QUERCUSSTELLATA,Midwest,east section,O-68/12-69,T
 479-2001*2,-88.062878,41.815243,2001,w,Quercus stellata,QUERCUSSTELLATA,Midwest,east section,O-68/54-75,T
 479-2001*3,-88.062778,41.815141,2001,w,Quercus stellata,QUERCUSSTELLATA,Midwest,east section,O-69/16-01,T
-401-2008*1,-88.050865,41.814124,2008,z,Quercus × sternbergii,QUERCUSSTERNBERGII,Quercus,north section,J-101/36-35,ND
-656-32*1,-88.051712,41.814817,1932,g,Quercus × subfalcata,QUERCUSSUBFALCATA,Quercus,north section,L-99/96-13,T
+401-2008*1,-88.050865,41.814124,2008,z,Quercus _sternbergii,QUERCUSSTERNBERGII,Quercus,north section,J-101/36-35,ND
+656-32*1,-88.051712,41.814817,1932,g,Quercus _subfalcata,QUERCUSSUBFALCATA,Quercus,north section,L-99/96-13,T
 416-45*1,-88.066423,41.811092,1945,z,Quercus texana,QUERCUSTEXANA,Centennial Grove,,AZ-58/75-58,T
 416-45*3,-88.066118,41.811482,1945,z,Quercus texana,QUERCUSTEXANA,Rosaceae,,B-59/14-46,T
 482-2018*1,-88.050995,41.814053,2018,w,Quercus texana,QUERCUSTEXANA,Quercus,,J-100/11-99,
@@ -1911,17 +1911,17 @@ PlantId,Longitude,Latitude,RcvdYear,ProvenanceType,Species_Name,CalcNameSort,Gar
 185-92*4,-88.050702,41.814136,1992,w,Quercus velutina,QUERCUSVELUTINA,Quercus,north section,J-101/39-80,T
 185-92*5,-88.050872,41.814226,1992,w,Quercus velutina,QUERCUSVELUTINA,Quercus,north section,J-101/73-35,T
 50-2004*1,-88.051185,41.81343,2004,w,Quercus velutina,QUERCUSVELUTINA,Quercus,south section,G-100/86-40,ND
-5-2014*1,-88.051851,41.813909,2014,g,Quercus × warei,QUERCUSWAREI,Quercus,south section,I-98/67-64,ND
-5-2014*2,-88.051889,41.813959,2014,g,Quercus × warei,QUERCUSWAREI,Quercus,south section,I-98/85-54,ND
-5-2014*3,-88.051812,41.813978,2014,g,Quercus × warei,QUERCUSWAREI,Quercus,south section,I-98/91-76,ND
-707-2006*1,-88.052212,41.814101,2006,g,Quercus × warei,QUERCUSWAREI,Quercus,south section,J-97/40-68,ND
-171-2008*1,-88.051192,41.814171,2008,g,Quercus × warei,QUERCUSWAREILONG,Quercus,north section,J-100/56-47,ND
-171-2008*2,-88.051057,41.814281,2008,g,Quercus × warei,QUERCUSWAREILONG,Quercus,north section,J-100/95-85,ND
-36-2007*1,-88.076865,41.814605,2007,g,Quercus × warei,QUERCUSWAREILONG,Godshalk Meadow,north side,N-30/51-55,ND
-36-2007*2,-88.073221,41.812326,2007,g,Quercus × warei,QUERCUSWAREILONG,Service Area,,E-40/87-20,ND
-36-2007*3,-88.07308,41.812333,2007,g,Quercus × warei,QUERCUSWAREILONG,Service Area,,E-40/89-59,ND
-36-2007*4,-88.073141,41.812369,2007,g,Quercus × warei,QUERCUSWAREILONG,Service Area,,F-40/02-43,ND
-51-2009*1,-88.05189,41.814106,2009,g,Quercus × warei,QUERCUSWAREINADLER,Quercus,south section,J-98/39-56,ND
-51-2009*2,-88.051829,41.814133,2009,g,Quercus × warei,QUERCUSWAREINADLER,Quercus,south section,J-98/48-73,ND
-51-2009*3,-88.051907,41.814164,2009,g,Quercus × warei,QUERCUSWAREINADLER,Quercus,south section,J-98/60-52,ND
-51-2009*4,-88.078268,41.813424,2009,g,Quercus × warei,QUERCUSWAREINADLER,West DuPage River,,J-26/34-58,ND
+5-2014*1,-88.051851,41.813909,2014,g,Quercus _warei,QUERCUSWAREI,Quercus,south section,I-98/67-64,ND
+5-2014*2,-88.051889,41.813959,2014,g,Quercus _warei,QUERCUSWAREI,Quercus,south section,I-98/85-54,ND
+5-2014*3,-88.051812,41.813978,2014,g,Quercus _warei,QUERCUSWAREI,Quercus,south section,I-98/91-76,ND
+707-2006*1,-88.052212,41.814101,2006,g,Quercus _warei,QUERCUSWAREI,Quercus,south section,J-97/40-68,ND
+171-2008*1,-88.051192,41.814171,2008,g,Quercus _warei,QUERCUSWAREILONG,Quercus,north section,J-100/56-47,ND
+171-2008*2,-88.051057,41.814281,2008,g,Quercus _warei,QUERCUSWAREILONG,Quercus,north section,J-100/95-85,ND
+36-2007*1,-88.076865,41.814605,2007,g,Quercus _warei,QUERCUSWAREILONG,Godshalk Meadow,north side,N-30/51-55,ND
+36-2007*2,-88.073221,41.812326,2007,g,Quercus _warei,QUERCUSWAREILONG,Service Area,,E-40/87-20,ND
+36-2007*3,-88.07308,41.812333,2007,g,Quercus _warei,QUERCUSWAREILONG,Service Area,,E-40/89-59,ND
+36-2007*4,-88.073141,41.812369,2007,g,Quercus _warei,QUERCUSWAREILONG,Service Area,,F-40/02-43,ND
+51-2009*1,-88.05189,41.814106,2009,g,Quercus _warei,QUERCUSWAREINADLER,Quercus,south section,J-98/39-56,ND
+51-2009*2,-88.051829,41.814133,2009,g,Quercus _warei,QUERCUSWAREINADLER,Quercus,south section,J-98/48-73,ND
+51-2009*3,-88.051907,41.814164,2009,g,Quercus _warei,QUERCUSWAREINADLER,Quercus,south section,J-98/60-52,ND
+51-2009*4,-88.078268,41.813424,2009,g,Quercus _warei,QUERCUSWAREINADLER,West DuPage River,,J-26/34-58,ND

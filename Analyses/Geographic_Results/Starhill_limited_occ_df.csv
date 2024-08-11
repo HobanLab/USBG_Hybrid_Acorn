@@ -1,21 +1,21 @@
 "Starhill_Accession_number","Longitude","Latitude","Species_Name","Genus","Species","Subspecific","Parentage","Year_Died","New_Compartment","Old_Compartment","Lot","Year_Outplanted","red_oak_t","white_oak_t","intermediate_oaks_t","cerris_oaks_t","Section","limit_names"
 "2003-021",-89.80247014,39.93342368,"Quercus alba","Quercus","alba","","Lincoln Vault Oak","","A5","OOA",3,"2003",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1995-035",-89.80232463,39.93483938,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco' F2","","","A3","A",1,"1995",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1995-035",-89.80223989,39.93485715,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco II'","","","A3","A",1,"1995",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2015-013",-89.80217828,39.93216463,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco II'","","","A7","OOOOA",2,"2015",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2008-068",-89.80212489,39.93300626,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","A6","OOOA",4,"2008",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2009-148",-89.80208333,39.9328,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco'","","","A6","OOOA",2,"2009",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2007-025",-89.80201073,39.93335403,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","A5","OOA",4,"2007",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2010-070",-89.80194443,39.93262748,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","A6","OOOA",3,"2010",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1994-013",-89.80101136,39.93403581,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco'","","","B4","OB",1,"1994",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1900-037",-89.8003,39.93536667,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","D3","D",NA,"spontaneous",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1900-036",-89.79951667,39.9353,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","D3","D",NA,"spontaneous",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1999-048",-89.79849301,39.93566659,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco' F2","","","F1","FFF",1,"1999",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2001-059",-89.79843694,39.9358116,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco' F2","","","F1","FFF",1,"2001",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1996-044",-89.79843283,39.93565368,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco' F2","","","F1","FFF",1,"1996",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2001-016",-89.79842931,39.93572619,"Quercus × bebbiana","Quercus","×bebbiana"," 'Taco' F2","","","F1","FFF",1,"2001",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2000-047",-89.79840693,39.93558303,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa","","F1","FFF",3,"2000",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"1994-015",-89.79833333,39.93536667,"Quercus × bebbiana","Quercus","×bebbiana","","alba × macrocarpa F3","","F2","FF",2,"1994",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"1995-035",-89.80232463,39.93483938,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco' F2","","","A3","A",1,"1995",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1995-035",-89.80223989,39.93485715,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco II'","","","A3","A",1,"1995",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2015-013",-89.80217828,39.93216463,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco II'","","","A7","OOOOA",2,"2015",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2008-068",-89.80212489,39.93300626,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","A6","OOOA",4,"2008",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2009-148",-89.80208333,39.9328,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco'","","","A6","OOOA",2,"2009",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2007-025",-89.80201073,39.93335403,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","A5","OOA",4,"2007",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2010-070",-89.80194443,39.93262748,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","A6","OOOA",3,"2010",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1994-013",-89.80101136,39.93403581,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco'","","","B4","OB",1,"1994",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1900-037",-89.8003,39.93536667,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","D3","D",NA,"spontaneous",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1900-036",-89.79951667,39.9353,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","D3","D",NA,"spontaneous",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1999-048",-89.79849301,39.93566659,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco' F2","","","F1","FFF",1,"1999",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2001-059",-89.79843694,39.9358116,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco' F2","","","F1","FFF",1,"2001",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1996-044",-89.79843283,39.93565368,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco' F2","","","F1","FFF",1,"1996",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2001-016",-89.79842931,39.93572619,"Quercus_bebbiana","Quercus","bebbiana"," 'Taco' F2","","","F1","FFF",1,"2001",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"2000-047",-89.79840693,39.93558303,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa","","F1","FFF",3,"2000",FALSE,FALSE,FALSE,FALSE,NA,TRUE
+"1994-015",-89.79833333,39.93536667,"Quercus_bebbiana","Quercus","bebbiana","","alba_macrocarpa F3","","F2","FF",2,"1994",FALSE,FALSE,FALSE,FALSE,NA,TRUE
 "2010-083",-89.80238255,39.93295236,"Quercus alba","Quercus","alba"," 'Gatton Grave'","","","A6","OOOA",1,"2010",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2006-042",-89.80236663,39.93308555,"Quercus alba","Quercus","alba","","Wye Oak F2","","A5","OOA",4,"2006",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2012-066",-89.80226839,39.93240788,"Quercus alba","Quercus","alba"," 'Gatton Grave'","","","A7","OOOOA",1,"2012",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
@@ -31,7 +31,7 @@
 "1992-022",-89.80161033,39.93477182,"Quercus alba","Quercus","alba","","","","B3","B",1,"1992",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2002-020",-89.80126088,39.93393003,"Quercus alba","Quercus","alba"," 'Jasper'","","","B4","OB",1,"2002",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2002-021",-89.80121931,39.9341519,"Quercus alba","Quercus","alba","","Lincoln Vault Oak","","B4","OB",3,"2002",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2003-059",-89.80179749,39.93547096,"Quercus robur","Quercus",""," 'Salfast' F2","robur 'Salicifolia' × robur 'Fastigiata'","","A2","AA",1,"2003",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2003-059",-89.80179749,39.93547096,"Quercus robur","Quercus",""," 'Salfast' F2","robur 'Salicifolia'_robur 'Fastigiata'","","A2","AA",1,"2003",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "1982-032",-89.80226889,39.93523518,"Quercus macrocarpa","Quercus","macrocarpa","","","","A2","AA",1,"1982",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "1994-036",-89.80212481,39.93502026,"Quercus macrocarpa","Quercus","macrocarpa"," 'Rough Rider'","","","A2","AA",1,"1994",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2015-021",-89.80212288,39.93219255,"Quercus macrocarpa","Quercus","macrocarpa","Big John'","","","A7","OOOOA",1,"2015",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
@@ -142,8 +142,8 @@
 "1998-033",-89.79809244,39.93555897,"Quercus macrocarpa","Quercus","macrocarpa","","","","F1","FFF",7,"1998",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "1997-041",-89.79808859,39.93552879,"Quercus macrocarpa","Quercus","macrocarpa","","","","F1","FFF",44,"1997",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2003-035",-89.79804617,39.93571353,"Quercus macrocarpa","Quercus","macrocarpa","","","","F1","FFF",61,"2003",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2021-011",39.93304,-89.8005,"Quercus macrocarpa","Quercus","macrocarpa","","","","C6","OOC",111,"2021",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2021-012",39.93306,-89.8004,"Quercus macrocarpa","Quercus","macrocarpa","","","","C7","OOC",112,"2021",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2021-011",-89.8005,39.93304,"Quercus macrocarpa","Quercus","macrocarpa","","","","C6","OOC",111,"2021",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2021-012",-89.8004,39.93306,"Quercus macrocarpa","Quercus","macrocarpa","","","","C7","OOC",112,"2021",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "1988-013",-89.80233285,39.93521154,"Quercus muehlenbergii","Quercus","muehlenbergii","","","","A2","AA",3,"1988",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2012-019",-89.80224182,39.93257124,"Quercus muehlenbergii","Quercus","muehlenbergii"," ""Small Nut""","","","A6","OOOA",8,"2012",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2009-179",-89.80205,39.93276667,"Quercus muehlenbergii","Quercus","muehlenbergii","","","","A6","OOOA",7,"2009",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
@@ -156,7 +156,7 @@
 "2001-047",-89.79976715,39.9352739,"Quercus muehlenbergii","Quercus","muehlenbergii","","","","D2","DD",4,"2001",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2005-075",-89.80177386,39.93348084,"Quercus petraea","Quercus","petraea","","","","A5","OOA",4,"2005",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2007-039",-89.80171116,39.93341479,"Quercus petraea","Quercus","petraea","","","","B5","OOB",11,"2007",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2016-029",-89.80162399,39.93217134,"Quercus petraea","Quercus","petraea","Muscaviensis'","F2 (× pubescens?)","","B7","OOOOB",1,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2016-029",-89.80162399,39.93217134,"Quercus petraea","Quercus","petraea","Muscaviensis'","F2 ( pubescens?)","","B7","OOOOB",1,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2005-071",-89.80160999,39.93333466,"Quercus petraea","Quercus","petraea","","","","B5","OOB",6,"2005",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2004-047",-89.80159348,39.93358134,"Quercus petraea","Quercus","petraea","","","","B5","OOB",5,"2004",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2004-075",-89.80159,39.93351,"Quercus petraea","Quercus","petraea",""," 'Insecata'  F2","","B5","OOB",9,"2004",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
@@ -165,7 +165,7 @@
 "2017-027",-89.80147705,39.93201594,"Quercus petraea","Quercus","petraea","","","","B7","OOOOB",12,"2017",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2011-036",-89.80145702,39.93261063,"Quercus petraea","Quercus","petraea","pinnatiloba","","","B6","OOOB",1,"2011",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2017-028",-89.8014354,39.93205751,"Quercus petraea","Quercus","petraea","","","","B7","OOOOB",13,"2017",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2015-029",-89.80138821,39.93238843,"Quercus petraea","Quercus","petraea","Muscaviensis'","F2 (× pubescens?)","","B7","OOOOB",1,"2015",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2015-029",-89.80138821,39.93238843,"Quercus petraea","Quercus","petraea","Muscaviensis'","F2 ( pubescens?)","","B7","OOOOB",1,"2015",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2001-049",-89.8013131,39.93419532,"Quercus petraea","Quercus","petraea"," 'Mespilifolia'","","","B4","OB",1,"2001",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2008-062",-89.80233333,39.9329,"Quercus robur","Quercus","robur"," 'Albomarginata'","","","A6","OOOA",1,"2008",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2008-063",-89.8023,39.93288333,"Quercus robur","Quercus","robur"," 'Henzei'","","","A6","OOOA",1,"2008",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
@@ -220,7 +220,7 @@
 "2009-192",-89.80211667,39.93275,"Quercus sinuata","Quercus","sinuata","breviloba","","","A6","OOOA",3,"2009",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2010-120",-89.8020109,39.93269806,"Quercus sinuata","Quercus","sinuata","","","","A6","OOOA",3,"2010",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2010-119",-89.8019021,39.93278238,"Quercus sinuata","Quercus","sinuata","breviloba","","","A6","OOOA",4,"2010",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2016-032",-89.80184636,39.93221216,"Quercus sinuata","Quercus","sinuata","breviloba","×?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2016-031",-89.80181434,39.93217905,"Quercus sinuata","Quercus","sinuata","breviloba","×?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
-"2016-033",-89.80181174,39.9322135,"Quercus sinuata","Quercus","sinuata","breviloba","×?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2016-032",-89.80184636,39.93221216,"Quercus sinuata","Quercus","sinuata","breviloba","?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2016-031",-89.80181434,39.93217905,"Quercus sinuata","Quercus","sinuata","breviloba","?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
+"2016-033",-89.80181174,39.9322135,"Quercus sinuata","Quercus","sinuata","breviloba","?","","A7","OOOOA",5,"2016",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
 "2002-045",-89.80130179,39.93389692,"Quercus sinuata","Quercus","sinuata","breviloba","","","B4","OB",1,"2002",FALSE,TRUE,FALSE,FALSE,"white_oak",TRUE
